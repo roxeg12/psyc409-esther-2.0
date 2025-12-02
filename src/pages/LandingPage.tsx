@@ -8,20 +8,32 @@ const LandingPage = () => {
     {
       id: 'academics',
       title: 'Academics',
-      description: 'Access course materials, grades, and academic resources',
+      description: 'Access grades, transcripts, and degree/graduation progress',
       path: '/academics'
+    },
+    {
+      id: 'registration',
+      title: 'Registration',
+      description: 'Register for classes, view your schedule, and plan your courses',
+      path: '/registration'
+    },
+    {
+      id: 'finances',
+      title: 'Finances',
+      description: 'View your financial information and pay your bills',
+      path: '/finances'
+    }, 
+    {
+      id: 'personal',
+      title: 'Personal Information',
+      description: 'View your personal information and settings',
+      path: '/personal'
     },
     {
       id: 'resources',
       title: 'Resources',
-      description: 'Library, study spaces, and student support services',
+      description: 'Access academic resources, support services, and more',
       path: '/resources'
-    },
-    {
-      id: 'services',
-      title: 'Student Services',
-      description: 'Housing, dining, health services, and more',
-      path: '/services'
     }
   ]
 

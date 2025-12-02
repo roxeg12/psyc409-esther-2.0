@@ -1,0 +1,1809 @@
+Participant 4:
+    - Group 1: Registrar
+        - EthicsPoint Website
+        - Release or Withhold Directory Information
+        - Register
+        - Add
+        - or Drop Classes
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - View Enrollment Verification Status or Degree Verification Status
+        - View an Unofficial Academic Transcript
+        - View Grades
+        - Financial Aid
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Registration Timeline
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Graduate Student Time Boundaries
+        - Personal Information
+        - Navigate
+        - View Transcript Request Status
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Graduation
+        - Student Schedule
+        - Request an Official Enrollment Verification or Degree Verification
+        - CeCredentials
+        - Student Profile
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - National Student Clearinghouse
+        - Plan Ahead
+        - Request an Official Transcript (Academic)
+        - Course Schedule and Course Catalog
+        - Holds
+        - Degree Works
+    - Group 2: Wellbeing
+        - Wellbeing and Counseling Center Website
+        - Rice Alert
+        - 2025–2026 Campus Housing Agreement
+        - Student Health Insurance Website
+    - Group 3: ___
+        - Registration Priority Group
+        - Prepare for Registration
+        - Office of the Registrar Website
+    - Group 4: ___
+        - Parent/Guardian and Emergency Contact Information
+        - Update Name Pronunciation (NameCoach)
+    - Group 5: ___
+        - E-Questionnaire Main Page
+    - Group 6: ___
+        - Bill Payment Suite
+    - Group 7: ___
+        - Language Placement Test Website
+    - Group 8: Contact
+    - Group 9: MISC.
+    - Group 10: Billing
+    - Group 11: CLIC
+
+Participant 5:
+    - Group 1: Personal Information
+        - 2025–2026 Campus Housing Agreement
+        - Personal Information
+        - Rice Alert
+        - Bill Payment Suite
+        - Parent/Guardian and Emergency Contact Information
+        - Prepare for Registration
+        - Student Profile
+        - Graduation
+        - Degree Works
+    - Group 2: Classes
+        - Request an Official Enrollment Verification or Degree Verification
+        - View an Unofficial Academic Transcript
+        - CeCredentials
+        - Request an Official Transcript (Academic)
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Office of the Registrar Website
+        - View Enrollment Verification Status or Degree Verification Status
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - View Grades
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Course Schedule and Course Catalog
+        - Registration Timeline
+        - Registration Priority Group
+    - Group 3: Student Health
+        - Student Health Insurance Website
+    - Group 4: Trancript
+        - Wellbeing and Counseling Center Website
+        - Financial Aid
+        - Release or Withhold Directory Information
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Holds
+        - Register
+        - Add
+        - or Drop Classes
+        - View Transcript Request Status
+        - Student Schedule
+        - Plan Ahead
+    - Group 5: Navigate
+        - National Student Clearinghouse
+        - EthicsPoint Website
+        - Navigate
+    - Group 6: Forms
+        - Update Name Pronunciation (NameCoach)
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - E-Questionnaire Main Page
+    - Group 7: Graduate Timeline
+        - Graduate Student Time Boundaries
+    - Group 8: ___
+        - Language Placement Test Website
+
+Participant 6:
+    - Group 1: Transcript Information
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Registration Priority Group
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Plan Ahead
+        - Student Profile
+        - Office of the Registrar Website
+        - Holds
+        - Graduation
+        - Degree Works
+    - Group 2: Registration
+        - Navigate
+        - Rice Alert
+        - Parent/Guardian and Emergency Contact Information
+        - Student Health Insurance Website
+        - View Grades
+        - CeCredentials
+    - Group 3: Classes
+        - Personal Information
+        - View an Unofficial Academic Transcript
+        - Request an Official Transcript (Academic)
+    - Group 4: Administative
+        - Course Schedule and Course Catalog
+        - E-Questionnaire Main Page
+        - Request an Official Enrollment Verification or Degree Verification
+        - Wellbeing and Counseling Center Website
+    - Group 5: Financial Information
+        - View Enrollment Verification Status or Degree Verification Status
+        - Registration Timeline
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+    - Group 6: Degree Information
+        - Prepare for Registration
+        - Bill Payment Suite
+    - Group 7: Financial Aid
+        - Financial Aid
+        - Release or Withhold Directory Information
+    - Group 8: Degree Assistance
+        - National Student Clearinghouse
+    - Group 9: National Student Clearinghouse
+        - Graduate Student Time Boundaries
+    - Group 10: Housing Agreement
+        - Update Name Pronunciation (NameCoach)
+    - Group 11: Language Placement Test
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Register
+        - Add
+        - or Drop Classes
+        - View Transcript Request Status
+        - Student Schedule
+    - Group 12: Course Evaluations
+        - Course Evaluations and Instructor Evaluations – Student Input
+    - Group 13: EthicsPoint Website
+        - Language Placement Test Website
+    - Group 14: Personal Information
+        - 2025–2026 Campus Housing Agreement
+    - Group 15: Graduate Student Info
+        - EthicsPoint Website
+
+Participant 7:
+    - Group 1: Registration
+        - Course Evaluations and Instructor Evaluations – View Results
+        - View Enrollment Verification Status or Degree Verification Status
+        - 2025–2026 Campus Housing Agreement
+        - E-Questionnaire Main Page
+        - Personal Information
+        - Rice Alert
+        - Registration Timeline
+        - Navigate
+        - Student Health Insurance Website
+        - Register
+        - Add
+        - or Drop Classes
+        - Plan Ahead
+        - Registration Priority Group
+        - Student Profile
+        - Degree Works
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Course Schedule and Course Catalog
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Prepare for Registration
+        - Pass/Fail – Designate a Course as Pass/Fail
+    - Group 2: Parental
+        - Parent/Guardian and Emergency Contact Information
+        - EthicsPoint Website
+        - Wellbeing and Counseling Center Website
+    - Group 3: Registrar
+        - Financial Aid
+        - View an Unofficial Academic Transcript
+        - Bill Payment Suite
+        - CeCredentials
+        - Graduation
+        - Request an Official Enrollment Verification or Degree Verification
+        - Release or Withhold Directory Information
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Request an Official Transcript (Academic)
+        - Holds
+        - Office of the Registrar Website
+    - Group 4: Grades
+        - View Transcript Request Status
+        - View Grades
+        - Student Schedule
+    - Group 5: You
+        - Language Placement Test Website
+        - National Student Clearinghouse
+        - Update Name Pronunciation (NameCoach)
+        - Graduate Student Time Boundaries
+    - Group 6: .
+    - Group 7: .
+    - Group 8: .
+    - Group 9: .
+    - Group 10: .
+    - Group 11: .
+    - Group 12: .
+    - Group 13: .
+    - Group 14: ,
+    - Group 15: .
+
+Participant 8:
+    - Group 1: Degree
+        - CeCredentials
+        - View Enrollment Verification Status or Degree Verification Status
+        - Request an Official Enrollment Verification or Degree Verification
+        - Request an Official Transcript (Academic)
+        - Graduate Student Time Boundaries
+        - Degree Works
+        - Graduation
+    - Group 2: Profile
+        - Student Profile
+        - Navigate
+        - Rice Alert
+        - Student Health Insurance Website
+        - EthicsPoint Website
+        - Wellbeing and Counseling Center Website
+        - Language Placement Test Website
+    - Group 3: Registration
+        - View an Unofficial Academic Transcript
+        - Registration Timeline
+        - View Transcript Request Status
+        - Prepare for Registration
+        - Student Schedule
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Register
+        - Add
+        - or Drop Classes
+        - View Grades
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Plan Ahead
+        - Holds
+        - Course Schedule and Course Catalog
+        - Office of the Registrar Website
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Registration Priority Group
+        - Course Evaluations and Instructor Evaluations – View Results
+    - Group 4: Questionaries
+        - E-Questionnaire Main Page
+        - 2025–2026 Campus Housing Agreement
+        - Release or Withhold Directory Information
+        - Parent/Guardian and Emergency Contact Information
+        - Personal Information
+        - Update Name Pronunciation (NameCoach)
+    - Group 5: Financial Aid
+        - National Student Clearinghouse
+        - Financial Aid
+        - Bill Payment Suite
+
+Participant 9:
+    - Group 1: Class Info
+        - Student Profile
+        - View Grades
+        - Plan Ahead
+        - Registration Timeline
+        - Registration Priority Group
+        - Holds
+        - Course Schedule and Course Catalog
+        - Office of the Registrar Website
+        - Graduation
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Prepare for Registration
+        - Degree Works
+    - Group 2: Personal Info
+        - View an Unofficial Academic Transcript
+        - Personal Information
+        - Parent/Guardian and Emergency Contact Information
+        - Student Health Insurance Website
+    - Group 3: Schedule
+        - Request an Official Enrollment Verification or Degree Verification
+        - Bill Payment Suite
+        - Course Evaluations and Instructor Evaluations – View Results
+        - 2025–2026 Campus Housing Agreement
+        - Financial Aid
+        - Request an Official Transcript (Academic)
+    - Group 4: Language
+        - EthicsPoint Website
+        - Wellbeing and Counseling Center Website
+    - Group 5: Personal
+        - National Student Clearinghouse
+        - Release or Withhold Directory Information
+        - E-Questionnaire Main Page
+        - View Enrollment Verification Status or Degree Verification Status
+        - Rice Alert
+    - Group 6: Transcript
+        - CeCredentials
+    - Group 7: Graduation
+        - Navigate
+    - Group 8: Degrees
+        - Student Schedule
+    - Group 9: Registering
+        - Language Placement Test Website
+    - Group 10: Course Evaluations
+        - Update Name Pronunciation (NameCoach)
+    - Group 11: Financial
+        - View Transcript Request Status
+    - Group 12: Ethics and Wellbeing
+        - Graduate Student Time Boundaries
+    - Group 13: Enrollment
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+    - Group 14: Cecredentials
+        - Register
+        - Add
+        - or Drop Classes
+    - Group 15: Navigate
+        - Course Evaluations and Instructor Evaluations – Student Input
+
+Participant 10:
+    - Group 1: Student Specific Items
+        - Update Name Pronunciation (NameCoach)
+        - E-Questionnaire Main Page
+        - Navigate
+        - National Student Clearinghouse
+        - CeCredentials
+        - EthicsPoint Website
+        - Personal Information
+        - Student Profile
+        - Holds
+    - Group 2: Scheduling
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Release or Withhold Directory Information
+        - Office of the Registrar Website
+        - Plan Ahead
+        - Request an Official Transcript (Academic)
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - View an Unofficial Academic Transcript
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Student Schedule
+        - Course Schedule and Course Catalog
+    - Group 3: Registration timeline
+        - Registration Priority Group
+        - Register
+        - Add
+        - or Drop Classes
+        - Pass/Fail – Designate a Course as Pass/Fail
+    - Group 4: Graduate Students
+        - Parent/Guardian and Emergency Contact Information
+        - Wellbeing and Counseling Center Website
+        - 2025–2026 Campus Housing Agreement
+    - Group 5: Health Insurance
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Rice Alert
+    - Group 6: Language Placement
+        - Financial Aid
+        - Prepare for Registration
+    - Group 7: Enrollment Verification
+        - Graduation
+        - Degree Works
+    - Group 8: Bill Payments
+        - Registration Timeline
+    - Group 9: Enrollment Verification
+        - View Grades
+        - Graduate Student Time Boundaries
+    - Group 10: Transcript Request
+        - Student Health Insurance Website
+    - Group 11: Registration
+        - Language Placement Test Website
+    - Group 12: Wellbeing
+        - View Enrollment Verification Status or Degree Verification Status
+    - Group 13: Finances
+        - Bill Payment Suite
+    - Group 14: Major
+        - Request an Official Enrollment Verification or Degree Verification
+    - Group 15: Finances
+        - View Transcript Request Status
+
+Participant 11:
+    - Group 1: Personal Info
+        - Update Name Pronunciation (NameCoach)
+        - Wellbeing and Counseling Center Website
+        - Personal Information
+        - Student Profile
+        - Degree Works
+        - Parent/Guardian and Emergency Contact Information
+    - Group 2: Managing coursework
+        - Register
+        - Add
+        - or Drop Classes
+        - Registration Priority Group
+        - Registration Timeline
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Plan Ahead
+        - Holds
+        - Course Schedule and Course Catalog
+        - Prepare for Registration
+        - Student Schedule
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Navigate
+    - Group 3: Registrar Info
+        - View Transcript Request Status
+        - View Enrollment Verification Status or Degree Verification Status
+        - Request an Official Transcript (Academic)
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - View an Unofficial Academic Transcript
+        - Course Evaluations and Instructor Evaluations – View Results
+        - View Grades
+    - Group 4: Your Future
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Request an Official Enrollment Verification or Degree Verification
+        - Release or Withhold Directory Information
+        - Office of the Registrar Website
+        - Graduation
+    - Group 5: Finances
+        - National Student Clearinghouse
+        - Financial Aid
+        - Student Health Insurance Website
+        - Bill Payment Suite
+        - CeCredentials
+        - Graduate Student Time Boundaries
+        - Rice Alert
+        - EthicsPoint Website
+        - 2025–2026 Campus Housing Agreement
+    - Group 6: Placement
+        - Language Placement Test Website
+        - E-Questionnaire Main Page
+
+Participant 12:
+    - Group 1: Registration
+        - Office of the Registrar Website
+        - Holds
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Registration Timeline
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Plan Ahead
+        - Student Schedule
+        - Prepare for Registration
+        - Register
+        - Add
+        - or Drop Classes
+        - View Transcript Request Status
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Course Schedule and Course Catalog
+        - Registration Priority Group
+    - Group 2: Acadmics -- degree related
+        - Request an Official Enrollment Verification or Degree Verification
+        - Graduation
+        - View Enrollment Verification Status or Degree Verification Status
+        - View Grades
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - CeCredentials
+        - Rice Alert
+        - View an Unofficial Academic Transcript
+        - Degree Works
+        - Request an Official Transcript (Academic)
+    - Group 3: ___
+        - 2025–2026 Campus Housing Agreement
+        - Student Health Insurance Website
+        - Wellbeing and Counseling Center Website
+    - Group 4: ___
+        - Personal Information
+        - Release or Withhold Directory Information
+        - Parent/Guardian and Emergency Contact Information
+        - Update Name Pronunciation (NameCoach)
+        - Student Profile
+    - Group 5: ___
+        - Financial Aid
+        - Bill Payment Suite
+    - Group 6: ___
+        - Language Placement Test Website
+    - Group 7: ___
+        - EthicsPoint Website
+        - National Student Clearinghouse
+        - Graduate Student Time Boundaries
+        - E-Questionnaire Main Page
+        - Navigate
+    - Group 8: Student life
+    - Group 9: Personal information
+    - Group 10: Financials
+
+Participant 13:
+    - Group 1: Likely to use
+        - Wellbeing and Counseling Center Website
+        - View an Unofficial Academic Transcript
+        - Registration Priority Group
+        - View Grades
+        - Student Profile
+        - Degree Works
+        - Request an Official Transcript (Academic)
+        - Personal Information
+        - Holds
+    - Group 2: Second likely to use
+        - Registration Timeline
+        - Plan Ahead
+        - Prepare for Registration
+        - Parent/Guardian and Emergency Contact Information
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Bill Payment Suite
+        - Navigate
+        - Rice Alert
+    - Group 3: ___
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - View Enrollment Verification Status or Degree Verification Status
+        - Office of the Registrar Website
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Financial Aid
+        - EthicsPoint Website
+        - View Transcript Request Status
+        - 2025–2026 Campus Housing Agreement
+        - Graduation
+        - Student Health Insurance Website
+    - Group 4: ___
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Course Schedule and Course Catalog
+        - Register
+        - Add
+        - or Drop Classes
+        - Student Schedule
+        - E-Questionnaire Main Page
+        - Request an Official Enrollment Verification or Degree Verification
+        - CeCredentials
+    - Group 5: ___
+        - National Student Clearinghouse
+        - Language Placement Test Website
+        - Update Name Pronunciation (NameCoach)
+        - Graduate Student Time Boundaries
+        - Release or Withhold Directory Information
+    - Group 6: Third most likely to use
+    - Group 7: Fourth most likely to use
+
+Participant 14:
+    - Group 1: Degree Progress
+        - Graduation
+        - Degree Works
+        - Request an Official Enrollment Verification or Degree Verification
+        - View Enrollment Verification Status or Degree Verification Status
+        - Graduate Student Time Boundaries
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Release or Withhold Directory Information
+    - Group 2: Registration Info
+        - Office of the Registrar Website
+        - Registration Priority Group
+        - Registration Timeline
+        - Holds
+    - Group 3: .
+        - Student Profile
+        - Parent/Guardian and Emergency Contact Information
+        - Personal Information
+        - View Grades
+        - View an Unofficial Academic Transcript
+        - Request an Official Transcript (Academic)
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - View Transcript Request Status
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+    - Group 4: .
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Plan Ahead
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Course Schedule and Course Catalog
+        - Prepare for Registration
+        - Register
+        - Add
+        - or Drop Classes
+        - Student Schedule
+    - Group 5: .
+        - Financial Aid
+        - Bill Payment Suite
+        - Student Health Insurance Website
+        - 2025–2026 Campus Housing Agreement
+    - Group 6: .
+    - Group 7: .
+        - Language Placement Test Website
+        - Update Name Pronunciation (NameCoach)
+        - CeCredentials
+        - Rice Alert
+        - National Student Clearinghouse
+        - EthicsPoint Website
+        - E-Questionnaire Main Page
+        - Wellbeing and Counseling Center Website
+        - Navigate
+    - Group 8: .
+    - Group 9: .
+    - Group 10: .
+    - Group 11: Academic Info
+    - Group 12: Register
+    - Group 13: Financial Account
+    - Group 14: .
+    - Group 15: Student Resources
+
+Participant 15:
+    - Group 1: Academics
+        - View Grades
+        - Request an Official Transcript (Academic)
+        - Student Profile
+        - Navigate
+        - Student Health Insurance Website
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Registration Priority Group
+        - Plan Ahead
+        - Pass/Fail – Designate a Course as Pass/Fail
+    - Group 2: Academics
+        - Personal Information
+        - Holds
+        - E-Questionnaire Main Page
+        - Wellbeing and Counseling Center Website
+        - CeCredentials
+        - Parent/Guardian and Emergency Contact Information
+    - Group 3: Registration
+        - Prepare for Registration
+        - Course Schedule and Course Catalog
+        - Office of the Registrar Website
+        - Degree Works
+        - Graduation
+    - Group 4: Finance
+        - View Enrollment Verification Status or Degree Verification Status
+        - Bill Payment Suite
+        - EthicsPoint Website
+        - Rice Alert
+        - Request an Official Enrollment Verification or Degree Verification
+    - Group 5: Finance
+        - View an Unofficial Academic Transcript
+        - Registration Timeline
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+    - Group 6: Finance
+        - 2025–2026 Campus Housing Agreement
+        - Release or Withhold Directory Information
+    - Group 7: Academics
+        - View Transcript Request Status
+        - Financial Aid
+    - Group 8: Finance
+        - National Student Clearinghouse
+    - Group 9: Registration
+        - Register
+        - Add
+        - or Drop Classes
+    - Group 10: Registration
+        - Course Evaluations and Instructor Evaluations – Student Input
+    - Group 11: Registration
+        - Student Schedule
+    - Group 12: Registration
+        - Language Placement Test Website
+    - Group 13: Finance
+        - Update Name Pronunciation (NameCoach)
+    - Group 14: Academics
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+    - Group 15: Registration
+        - Graduate Student Time Boundaries
+
+Participant 16:
+    - Group 1: Grades and Transcripts
+        - Request an Official Transcript (Academic)
+        - View Grades
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - View an Unofficial Academic Transcript
+        - View Transcript Request Status
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Graduate Student Time Boundaries
+    - Group 2: Courses and Registration
+        - Course Schedule and Course Catalog
+        - CeCredentials
+        - Registration Priority Group
+        - Register
+        - Add
+        - or Drop Classes
+        - Registration Timeline
+        - Prepare for Registration
+        - Plan Ahead
+        - Holds
+    - Group 3: Finances
+        - Request an Official Enrollment Verification or Degree Verification
+        - Degree Works
+        - View Enrollment Verification Status or Degree Verification Status
+        - Graduation
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+    - Group 4: Housing Agreement
+        - Wellbeing and Counseling Center Website
+        - Student Health Insurance Website
+        - Rice Alert
+    - Group 5: Language Placement Exam
+        - Student Schedule
+        - Student Profile
+        - National Student Clearinghouse
+        - Personal Information
+        - Update Name Pronunciation (NameCoach)
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Release or Withhold Directory Information
+        - E-Questionnaire Main Page
+        - Parent/Guardian and Emergency Contact Information
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Navigate
+    - Group 6: ___
+        - Office of the Registrar Website
+        - EthicsPoint Website
+    - Group 7: ___
+        - Financial Aid
+        - Bill Payment Suite
+    - Group 8: ___
+        - 2025–2026 Campus Housing Agreement
+    - Group 9: ___
+        - Language Placement Test Website
+    - Group 10: Degree Information
+    - Group 11: Health and Safety Resources
+    - Group 12: Personal Information
+    - Group 13: Links
+
+Participant 17:
+    - Group 1: Registration
+        - Prepare for Registration
+        - Registration Timeline
+        - Registration Priority Group
+        - Plan Ahead
+        - Office of the Registrar Website
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Degree Works
+        - Graduation
+    - Group 2: Grades
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Course Schedule and Course Catalog
+        - View Grades
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Holds
+    - Group 3: Courses
+        - E-Questionnaire Main Page
+        - Wellbeing and Counseling Center Website
+    - Group 4: Navigate
+        - Personal Information
+        - Student Profile
+        - Update Name Pronunciation (NameCoach)
+        - Request an Official Transcript (Academic)
+        - Release or Withhold Directory Information
+        - Parent/Guardian and Emergency Contact Information
+        - Rice Alert
+    - Group 5: Finances
+        - 2025–2026 Campus Housing Agreement
+        - EthicsPoint Website
+    - Group 6: ___
+        - View Transcript Request Status
+        - View an Unofficial Academic Transcript
+        - View Enrollment Verification Status or Degree Verification Status
+        - Request an Official Enrollment Verification or Degree Verification
+    - Group 7: ___
+        - Language Placement Test Website
+    - Group 8: ___
+        - Register
+        - Add
+        - or Drop Classes
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Student Schedule
+    - Group 9: ___
+        - Navigate
+        - Graduate Student Time Boundaries
+        - National Student Clearinghouse
+        - CeCredentials
+    - Group 10: ___
+        - Financial Aid
+        - Bill Payment Suite
+        - Student Health Insurance Website
+    - Group 11: Wellbeing
+    - Group 12: Personal Information
+    - Group 13: Housing
+    - Group 14: Transcript
+    - Group 15: Language
+
+Participant 18:
+    - Group 1: Academics
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Request an Official Transcript (Academic)
+        - Request an Official Enrollment Verification or Degree Verification
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Register
+        - Add
+        - or Drop Classes
+        - Prepare for Registration
+        - Plan Ahead
+        - Registration Timeline
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Registration Priority Group
+        - Bill Payment Suite
+        - Course Schedule and Course Catalog
+    - Group 2: Student Profile
+        - Student Profile
+        - Financial Aid
+        - Personal Information
+        - Update Name Pronunciation (NameCoach)
+        - Student Schedule
+        - View Grades
+        - Release or Withhold Directory Information
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - View Enrollment Verification Status or Degree Verification Status
+        - View Transcript Request Status
+        - View an Unofficial Academic Transcript
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Navigate
+        - Graduation
+        - Degree Works
+        - Holds
+    - Group 3: ___
+        - Office of the Registrar Website
+        - EthicsPoint Website
+        - Student Health Insurance Website
+        - Rice Alert
+        - E-Questionnaire Main Page
+        - Parent/Guardian and Emergency Contact Information
+        - CeCredentials
+        - Wellbeing and Counseling Center Website
+        - Language Placement Test Website
+        - National Student Clearinghouse
+        - Graduate Student Time Boundaries
+        - 2025–2026 Campus Housing Agreement
+    - Group 4: Information
+
+Participant 19:
+    - Group 1: Classes & Degrees
+        - Registration Timeline
+        - Office of the Registrar Website
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Plan Ahead
+        - Degree Works
+        - Prepare for Registration
+        - Registration Priority Group
+        - Register
+        - Add
+        - or Drop Classes
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Student Schedule
+    - Group 2: Health
+        - Student Health Insurance Website
+        - Wellbeing and Counseling Center Website
+    - Group 3: Graduate Student Boundaries
+        - Rice Alert
+        - Student Profile
+        - Personal Information
+        - View Grades
+        - Holds
+        - E-Questionnaire Main Page
+        - 2025–2026 Campus Housing Agreement
+        - Parent/Guardian and Emergency Contact Information
+        - Release or Withhold Directory Information
+        - Update Name Pronunciation (NameCoach)
+    - Group 4: Ethicspoint
+        - Graduation
+        - View Enrollment Verification Status or Degree Verification Status
+        - Request an Official Enrollment Verification or Degree Verification
+        - View an Unofficial Academic Transcript
+        - View Transcript Request Status
+        - Request an Official Transcript (Academic)
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Course Evaluations and Instructor Evaluations – View Results
+    - Group 5: National Student Clearing House
+        - Navigate
+        - Course Schedule and Course Catalog
+    - Group 6: Crecredentials
+        - Language Placement Test Website
+    - Group 7: ___
+        - Bill Payment Suite
+        - Financial Aid
+    - Group 8: ___
+        - Graduate Student Time Boundaries
+    - Group 9: ___
+        - EthicsPoint Website
+    - Group 10: ___
+        - National Student Clearinghouse
+    - Group 11: Home Page
+        - CeCredentials
+    - Group 12: Academic Documents
+
+Participant 20:
+    - Group 1: class
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Graduation
+        - Degree Works
+    - Group 2: registration
+        - Holds
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Registration Timeline
+        - Prepare for Registration
+        - Registration Priority Group
+    - Group 3: Academics
+        - Course Schedule and Course Catalog
+        - View Grades
+        - Wellbeing and Counseling Center Website
+        - Request an Official Transcript (Academic)
+    - Group 4: 3
+        - View Transcript Request Status
+        - CeCredentials
+        - Student Profile
+        - Office of the Registrar Website
+    - Group 5: 4
+        - EthicsPoint Website
+        - 2025–2026 Campus Housing Agreement
+    - Group 6: 5
+        - Register
+        - Add
+        - or Drop Classes
+        - Plan Ahead
+        - Request an Official Enrollment Verification or Degree Verification
+        - Student Schedule
+    - Group 7: 1
+        - View an Unofficial Academic Transcript
+        - Rice Alert
+        - Personal Information
+        - Course Evaluations and Instructor Evaluations – Student Input
+    - Group 8: 3
+        - View Enrollment Verification Status or Degree Verification Status
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Navigate
+    - Group 9: 6
+        - Graduate Student Time Boundaries
+        - Update Name Pronunciation (NameCoach)
+    - Group 10: 2
+        - Language Placement Test Website
+        - Release or Withhold Directory Information
+        - E-Questionnaire Main Page
+    - Group 11: 1
+        - Student Health Insurance Website
+        - Bill Payment Suite
+        - Financial Aid
+    - Group 12: 4
+        - National Student Clearinghouse
+        - Parent/Guardian and Emergency Contact Information
+    - Group 13: 5
+    - Group 14: 5
+    - Group 15: 6
+
+Participant 21:
+    - Group 1: Personal/Student Infor
+        - Personal Information
+        - Student Profile
+        - CeCredentials
+        - Student Health Insurance Website
+        - Navigate
+        - Registration Priority Group
+        - Update Name Pronunciation (NameCoach)
+        - National Student Clearinghouse
+        - Parent/Guardian and Emergency Contact Information
+        - Release or Withhold Directory Information
+        - Wellbeing and Counseling Center Website
+    - Group 2: Graduation Info
+        - E-Questionnaire Main Page
+        - Language Placement Test Website
+        - Degree Works
+        - Office of the Registrar Website
+        - Graduation
+        - View Grades
+        - Holds
+        - EthicsPoint Website
+        - View an Unofficial Academic Transcript
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Course Evaluations and Instructor Evaluations – View Results
+        - View Transcript Request Status
+        - Request an Official Transcript (Academic)
+    - Group 3: Course Registration
+        - Prepare for Registration
+        - Student Schedule
+        - Plan Ahead
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Course Schedule and Course Catalog
+        - Rice Alert
+        - Register
+        - Add
+        - or Drop Classes
+    - Group 4: Financial Info
+        - 2025–2026 Campus Housing Agreement
+        - Bill Payment Suite
+        - Financial Aid
+    - Group 5: Graduate Info
+        - Request an Official Enrollment Verification or Degree Verification
+        - View Enrollment Verification Status or Degree Verification Status
+        - Registration Timeline
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Graduate Student Time Boundaries
+    - Group 6: Graduate Info
+    - Group 7: Financial Info
+    - Group 8: Personal/Student Infor
+    - Group 9: Graduation Info
+    - Group 10: Financial Info
+    - Group 11: Graduate Info
+
+Participant 22:
+    - Group 1: Home
+        - Personal Information
+        - Navigate
+        - E-Questionnaire Main Page
+        - Holds
+    - Group 2: Academics
+        - View Grades
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Graduation
+        - Degree Works
+        - View an Unofficial Academic Transcript
+        - View Enrollment Verification Status or Degree Verification Status
+        - Graduate Student Time Boundaries
+    - Group 3: Housing
+        - Course Schedule and Course Catalog
+        - Registration Priority Group
+        - Student Schedule
+        - Plan Ahead
+        - Register
+        - Add
+        - or Drop Classes
+        - Office of the Registrar Website
+    - Group 4: Transcript
+        - Financial Aid
+        - Bill Payment Suite
+    - Group 5: Language Test
+        - Update Name Pronunciation (NameCoach)
+        - Student Profile
+        - Release or Withhold Directory Information
+    - Group 6: Health/Saftey
+        - Rice Alert
+        - EthicsPoint Website
+        - Wellbeing and Counseling Center Website
+        - CeCredentials
+    - Group 7: Pass/Fail
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Registration Timeline
+        - Prepare for Registration
+    - Group 8: ___
+        - National Student Clearinghouse
+        - 2025–2026 Campus Housing Agreement
+    - Group 9: N/a
+        - Request an Official Enrollment Verification or Degree Verification
+        - View Transcript Request Status
+        - Request an Official Transcript (Academic)
+    - Group 10: N/a
+        - Language Placement Test Website
+    - Group 11: Plan Ahead
+        - Student Health Insurance Website
+        - Parent/Guardian and Emergency Contact Information
+    - Group 12: Finacial
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Pass/Fail – Designate a Course as Pass/Fail
+    - Group 13: Student info
+    - Group 14: Wellbeing
+    - Group 15: Class Evals
+
+Participant 23:
+    - Group 1: Graduation
+        - Graduate Student Time Boundaries
+        - Graduation
+        - View Enrollment Verification Status or Degree Verification Status
+        - CeCredentials
+        - View an Unofficial Academic Transcript
+        - View Transcript Request Status
+        - Request an Official Enrollment Verification or Degree Verification
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Request an Official Transcript (Academic)
+        - Degree Works
+    - Group 2: Success.
+        - Student Health Insurance Website
+        - Rice Alert
+        - EthicsPoint Website
+        - Wellbeing and Counseling Center Website
+    - Group 3: Othrr
+        - Plan Ahead
+        - Prepare for Registration
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Student Schedule
+        - Navigate
+        - Register
+        - Add
+        - or Drop Classes
+        - Registration Priority Group
+        - Registration Timeline
+        - Course Schedule and Course Catalog
+    - Group 4: Other
+        - Language Placement Test Website
+        - E-Questionnaire Main Page
+        - National Student Clearinghouse
+        - 2025–2026 Campus Housing Agreement
+        - Holds
+        - Office of the Registrar Website
+    - Group 5: Other
+        - Course Evaluations and Instructor Evaluations – View Results
+        - View Grades
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Pass/Fail – Designate a Course as Pass/Fail
+    - Group 6: Other
+        - Parent/Guardian and Emergency Contact Information
+        - Release or Withhold Directory Information
+        - Student Profile
+        - Update Name Pronunciation (NameCoach)
+        - Personal Information
+    - Group 7: Other
+        - Bill Payment Suite
+        - Financial Aid
+    - Group 8: Other
+    - Group 9: Other
+    - Group 10: Other
+    - Group 11: Registration
+    - Group 12: Pre-work
+    - Group 13: Post-work
+    - Group 14: Personal
+    - Group 15: Financial
+
+Participant 24:
+    - Group 1: academics
+        - Prepare for Registration
+        - Plan Ahead
+        - Student Profile
+        - CeCredentials
+        - Registration Timeline
+        - Office of the Registrar Website
+        - Graduate Student Time Boundaries
+        - National Student Clearinghouse
+        - View Transcript Request Status
+        - Student Schedule
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Register
+        - Add
+        - or Drop Classes
+        - Language Placement Test Website
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - View an Unofficial Academic Transcript
+        - Release or Withhold Directory Information
+        - Holds
+        - Graduation
+        - View Grades
+        - Request an Official Transcript (Academic)
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - View Enrollment Verification Status or Degree Verification Status
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Course Schedule and Course Catalog
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Registration Priority Group
+        - Degree Works
+    - Group 2: personal
+        - Parent/Guardian and Emergency Contact Information
+        - Personal Information
+        - Update Name Pronunciation (NameCoach)
+        - Financial Aid
+        - EthicsPoint Website
+        - Navigate
+        - 2025–2026 Campus Housing Agreement
+        - Bill Payment Suite
+        - Rice Alert
+        - Request an Official Enrollment Verification or Degree Verification
+        - E-Questionnaire Main Page
+        - Wellbeing and Counseling Center Website
+        - Student Health Insurance Website
+    - Group 3: a
+    - Group 4: b
+    - Group 5: c
+    - Group 6: d
+    - Group 7: e
+    - Group 8: f
+    - Group 9: g
+    - Group 10: h
+    - Group 11: i
+    - Group 12: j
+    - Group 13: k
+    - Group 14: l
+    - Group 15: m
+
+Participant 25:
+    - Group 1: Regristration
+        - Course Schedule and Course Catalog
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Office of the Registrar Website
+        - Registration Timeline
+        - Plan Ahead
+        - Register
+        - Add
+        - or Drop Classes
+        - View Enrollment Verification Status or Degree Verification Status
+        - Prepare for Registration
+        - Release or Withhold Directory Information
+        - Graduate Student Time Boundaries
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Registration Priority Group
+    - Group 2: Well Being
+        - E-Questionnaire Main Page
+        - 2025–2026 Campus Housing Agreement
+        - EthicsPoint Website
+        - Student Health Insurance Website
+        - Parent/Guardian and Emergency Contact Information
+        - Rice Alert
+        - Wellbeing and Counseling Center Website
+    - Group 3: Student Information
+        - Student Schedule
+        - National Student Clearinghouse
+        - Student Profile
+        - View an Unofficial Academic Transcript
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - View Transcript Request Status
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Request an Official Enrollment Verification or Degree Verification
+        - Request an Official Transcript (Academic)
+        - View Grades
+        - Degree Works
+        - Navigate
+        - CeCredentials
+        - Graduation
+    - Group 4: ___
+        - Holds
+        - Bill Payment Suite
+        - Financial Aid
+        - Update Name Pronunciation (NameCoach)
+    - Group 5: ___
+        - Course Evaluations and Instructor Evaluations – View Results
+    - Group 6: ___
+        - Personal Information
+        - Language Placement Test Website
+
+Participant 26:
+    - Group 1: Registration
+        - Student Schedule
+        - Register
+        - Add
+        - or Drop Classes
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Prepare for Registration
+        - Registration Timeline
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Course Schedule and Course Catalog
+        - Plan Ahead
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Office of the Registrar Website
+        - Registration Priority Group
+        - Navigate
+        - Holds
+    - Group 2: Academics
+        - Request an Official Enrollment Verification or Degree Verification
+        - View an Unofficial Academic Transcript
+        - View Transcript Request Status
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - View Enrollment Verification Status or Degree Verification Status
+        - Request an Official Transcript (Academic)
+        - CeCredentials
+        - National Student Clearinghouse
+        - View Grades
+        - Graduation
+        - Degree Works
+    - Group 3: Language
+        - Update Name Pronunciation (NameCoach)
+        - Personal Information
+        - Student Profile
+        - Release or Withhold Directory Information
+        - Parent/Guardian and Emergency Contact Information
+    - Group 4: x
+    - Group 5: x
+        - E-Questionnaire Main Page
+        - 2025–2026 Campus Housing Agreement
+        - EthicsPoint Website
+        - Student Health Insurance Website
+        - Wellbeing and Counseling Center Website
+        - Rice Alert
+    - Group 6: x
+        - Financial Aid
+        - Bill Payment Suite
+    - Group 7: x
+        - Graduate Student Time Boundaries
+    - Group 8: x
+        - Language Placement Test Website
+    - Group 9: x
+    - Group 10: x
+    - Group 11: Personal Info
+    - Group 12: x
+    - Group 13: Wellbeing and Housing
+    - Group 14: Finances
+    - Group 15: Graduate Students
+
+Participant 27:
+    - Group 1: Courses
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Degree Works
+        - Request an Official Transcript (Academic)
+        - View an Unofficial Academic Transcript
+        - View Transcript Request Status
+        - Plan Ahead
+        - Request an Official Enrollment Verification or Degree Verification
+    - Group 2: Additional Services
+        - Graduation
+        - CeCredentials
+        - Graduate Student Time Boundaries
+        - Navigate
+        - Wellbeing and Counseling Center Website
+        - Rice Alert
+        - E-Questionnaire Main Page
+        - Office of the Registrar Website
+        - Student Health Insurance Website
+        - 2025–2026 Campus Housing Agreement
+        - National Student Clearinghouse
+        - EthicsPoint Website
+        - Language Placement Test Website
+    - Group 3: ___
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Prepare for Registration
+        - Student Schedule
+        - View Enrollment Verification Status or Degree Verification Status
+        - Registration Timeline
+        - Registration Priority Group
+        - Course Schedule and Course Catalog
+        - Register
+        - Add
+        - or Drop Classes
+        - Course Evaluations and Instructor Evaluations – View Results
+        - View Grades
+    - Group 4: ___
+        - Financial Aid
+        - Bill Payment Suite
+    - Group 5: ___
+        - Parent/Guardian and Emergency Contact Information
+        - Holds
+        - Release or Withhold Directory Information
+        - Update Name Pronunciation (NameCoach)
+        - Personal Information
+        - Student Profile
+    - Group 6: Registration
+    - Group 7: Finances
+    - Group 8: Personal Info.
+
+Participant 28:
+    - Group 1: I often use or I think I will often use
+        - Prepare for Registration
+        - Release or Withhold Directory Information
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Register
+        - Add
+        - or Drop Classes
+        - Registration Timeline
+        - Registration Priority Group
+        - Student Profile
+        - Plan Ahead
+        - Course Schedule and Course Catalog
+        - Personal Information
+        - View Grades
+        - Update Name Pronunciation (NameCoach)
+        - Financial Aid
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Student Schedule
+        - Holds
+        - Degree Works
+    - Group 2: I not often use but may be used later
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Graduate Student Time Boundaries
+        - View an Unofficial Academic Transcript
+        - 2025–2026 Campus Housing Agreement
+        - EthicsPoint Website
+        - View Enrollment Verification Status or Degree Verification Status
+        - Request an Official Enrollment Verification or Degree Verification
+        - View Transcript Request Status
+        - Parent/Guardian and Emergency Contact Information
+        - Office of the Registrar Website
+        - Request an Official Transcript (Academic)
+        - Graduation
+        - Student Health Insurance Website
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Pass/Fail – Designate a Course as Pass/Fail
+    - Group 3: none
+        - Wellbeing and Counseling Center Website
+        - Bill Payment Suite
+        - CeCredentials
+        - National Student Clearinghouse
+        - Language Placement Test Website
+        - Navigate
+        - E-Questionnaire Main Page
+        - Rice Alert
+    - Group 4: none
+    - Group 5: none
+    - Group 6: none
+    - Group 7: none
+    - Group 8: none
+    - Group 9: none
+    - Group 10: none
+    - Group 11: I haven't used, and I'm unfamiliar with and unlikely to use
+    - Group 12: none
+    - Group 13: none
+    - Group 14: none
+    - Group 15: none
+
+Participant 30:
+    - Group 1: classes
+        - National Student Clearinghouse
+        - Release or Withhold Directory Information
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Course Schedule and Course Catalog
+        - View an Unofficial Academic Transcript
+        - Request an Official Enrollment Verification or Degree Verification
+        - Register
+        - Add
+        - or Drop Classes
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - CeCredentials
+        - View Grades
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Plan Ahead
+        - View Transcript Request Status
+        - Navigate
+        - Graduate Student Time Boundaries
+        - Registration Timeline
+        - Student Schedule
+        - View Enrollment Verification Status or Degree Verification Status
+        - Language Placement Test Website
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Holds
+        - Request an Official Transcript (Academic)
+        - Graduation
+        - Office of the Registrar Website
+        - Prepare for Registration
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Degree Works
+        - Registration Priority Group
+    - Group 2: personal
+        - Student Profile
+        - 2025–2026 Campus Housing Agreement
+        - Update Name Pronunciation (NameCoach)
+        - Bill Payment Suite
+        - EthicsPoint Website
+        - Financial Aid
+        - Personal Information
+        - Parent/Guardian and Emergency Contact Information
+        - E-Questionnaire Main Page
+        - Rice Alert
+        - Wellbeing and Counseling Center Website
+        - Student Health Insurance Website
+    - Group 3: a
+    - Group 4: b
+    - Group 5: c
+    - Group 6: d
+    - Group 7: e
+    - Group 8: f
+    - Group 9: g
+    - Group 10: h
+    - Group 11: i
+    - Group 12: j
+    - Group 13: k
+    - Group 14: l
+    - Group 15: m
+
+Participant 31:
+    - Group 1: I often use or I'm familiar with
+        - Update Name Pronunciation (NameCoach)
+        - Personal Information
+        - Registration Timeline
+        - Course Schedule and Course Catalog
+        - Student Profile
+        - View Grades
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Plan Ahead
+        - Holds
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Student Health Insurance Website
+        - Prepare for Registration
+        - Parent/Guardian and Emergency Contact Information
+        - Registration Priority Group
+        - Student Schedule
+        - Financial Aid
+        - Register
+        - Add
+        - or Drop Classes
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Office of the Registrar Website
+        - Degree Works
+    - Group 2: I'm likely to use in the future
+        - Release or Withhold Directory Information
+        - Request an Official Enrollment Verification or Degree Verification
+        - National Student Clearinghouse
+        - 2025–2026 Campus Housing Agreement
+        - Bill Payment Suite
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - View an Unofficial Academic Transcript
+        - View Enrollment Verification Status or Degree Verification Status
+        - E-Questionnaire Main Page
+        - CeCredentials
+        - Graduation
+        - View Transcript Request Status
+        - Navigate
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Request an Official Transcript (Academic)
+    - Group 3: ___
+        - EthicsPoint Website
+        - Graduate Student Time Boundaries
+        - Rice Alert
+        - Language Placement Test Website
+        - Wellbeing and Counseling Center Website
+    - Group 4: I'm unlikely to use
+
+Participant 32:
+    - Group 1: Questionares
+        - National Student Clearinghouse
+        - Navigate
+        - CeCredentials
+        - Rice Alert
+        - E-Questionnaire Main Page
+    - Group 2: Registration
+        - Registration Timeline
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Degree Works
+        - Course Schedule and Course Catalog
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Register
+        - Add
+        - or Drop Classes
+        - Registration Priority Group
+    - Group 3: ___
+        - Language Placement Test Website
+        - Student Health Insurance Website
+        - Office of the Registrar Website
+        - EthicsPoint Website
+        - Wellbeing and Counseling Center Website
+    - Group 4: ___
+        - Graduation
+        - Plan Ahead
+        - Student Schedule
+        - Graduate Student Time Boundaries
+        - Prepare for Registration
+        - Holds
+    - Group 5: ___
+        - Request an Official Transcript (Academic)
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Request an Official Enrollment Verification or Degree Verification
+        - View Enrollment Verification Status or Degree Verification Status
+        - View Transcript Request Status
+        - View an Unofficial Academic Transcript
+        - View Grades
+    - Group 6: ___
+        - Parent/Guardian and Emergency Contact Information
+        - Student Profile
+        - Release or Withhold Directory Information
+        - 2025–2026 Campus Housing Agreement
+        - Update Name Pronunciation (NameCoach)
+        - Personal Information
+    - Group 7: ___
+        - Bill Payment Suite
+        - Financial Aid
+    - Group 8: Websites
+    - Group 9: Preparation
+    - Group 10: Transcripts
+    - Group 11: Student
+    - Group 12: Finances
+
+Participant 33:
+    - Group 1: Personal Info
+        - Parent/Guardian and Emergency Contact Information
+        - Student Profile
+        - Personal Information
+        - Wellbeing and Counseling Center Website
+        - Update Name Pronunciation (NameCoach)
+        - Student Health Insurance Website
+        - Bill Payment Suite
+    - Group 2: Academics
+        - Registration Priority Group
+        - Registration Timeline
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Holds
+        - View Transcript Request Status
+        - Course Schedule and Course Catalog
+        - Prepare for Registration
+        - Register
+        - Add
+        - or Drop Classes
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Student Schedule
+        - View Grades
+        - Degree Works
+    - Group 3: Your Future
+        - Navigate
+        - Graduation
+        - EthicsPoint Website
+        - CeCredentials
+        - Plan Ahead
+        - E-Questionnaire Main Page
+    - Group 4: Admin
+        - 2025–2026 Campus Housing Agreement
+        - Request an Official Transcript (Academic)
+        - Language Placement Test Website
+        - Release or Withhold Directory Information
+        - View Enrollment Verification Status or Degree Verification Status
+        - Graduate Student Time Boundaries
+        - National Student Clearinghouse
+        - View an Unofficial Academic Transcript
+        - Request an Official Enrollment Verification or Degree Verification
+        - Financial Aid
+        - Rice Alert
+        - Office of the Registrar Website
+
+Participant 34:
+    - Group 1: Degree
+        - View Enrollment Verification Status or Degree Verification Status
+        - Graduation
+        - CeCredentials
+        - Request an Official Enrollment Verification or Degree Verification
+        - Request an Official Transcript (Academic)
+        - View an Unofficial Academic Transcript
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Graduate Student Time Boundaries
+        - View Transcript Request Status
+        - Degree Works
+        - View Grades
+    - Group 2: General
+        - National Student Clearinghouse
+        - Navigate
+        - Release or Withhold Directory Information
+        - Student Profile
+        - E-Questionnaire Main Page
+        - Wellbeing and Counseling Center Website
+        - Rice Alert
+        - Personal Information
+        - Parent/Guardian and Emergency Contact Information
+        - Update Name Pronunciation (NameCoach)
+        - 2025–2026 Campus Housing Agreement
+        - Language Placement Test Website
+        - EthicsPoint Website
+        - Student Health Insurance Website
+    - Group 3: Registration
+    - Group 4: Financial
+    - Group 5: ___
+        - Registration Timeline
+        - Prepare for Registration
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+        - Course Schedule and Course Catalog
+        - Course Evaluations and Instructor Evaluations – Student Input
+        - Holds
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Plan Ahead
+        - Register
+        - Add
+        - or Drop Classes
+        - Office of the Registrar Website
+        - Student Schedule
+        - Registration Priority Group
+        - Pass/Fail – Designate a Course as Pass/Fail
+    - Group 6: ___
+        - Bill Payment Suite
+        - Financial Aid
+
+Participant 35:
+    - Group 1: Degree
+        - Degrees
+        - Majors
+        - Minors
+        - and Certificates Declared
+        - Graduation
+        - Request an Official Enrollment Verification or Degree Verification
+        - CeCredentials
+        - View Enrollment Verification Status or Degree Verification Status
+        - Degree Works
+    - Group 2: course planning
+        - Course Schedule and Course Catalog
+        - Plan Ahead
+    - Group 3: course evaluations
+        - Pass/Fail – Designate a Course as Pass/Fail
+        - Pass/Fail – View and/or Convert Pass/Fail Grades
+    - Group 4: personal information
+        - Register
+        - Add
+        - or Drop Classes
+        - Office of the Registrar Website
+        - Navigate
+        - Prepare for Registration
+        - Registration Timeline
+        - Registration Priority Group
+    - Group 5: Language Placement Test
+        - 2025–2026 Campus Housing Agreement
+    - Group 6: Classes
+        - Graduate Student Time Boundaries
+    - Group 7: Transcript
+        - Bill Payment Suite
+        - Financial Aid
+    - Group 8: holds
+        - Course Evaluations and Instructor Evaluations – View Results
+        - Course Evaluations and Instructor Evaluations – Student Input
+    - Group 9: ethics
+        - Release or Withhold Directory Information
+        - Rice Alert
+        - Student Health Insurance Website
+        - Personal Information
+        - Update Name Pronunciation (NameCoach)
+        - Parent/Guardian and Emergency Contact Information
+        - Student Profile
+        - E-Questionnaire Main Page
+    - Group 10: wellbeing
+        - Language Placement Test Website
+    - Group 11: pass/fail
+        - Student Schedule
+        - View Grades
+    - Group 12: registration
+        - View an Unofficial Academic Transcript
+        - View Transcript Request Status
+        - Request an Official Transcript (Academic)
+    - Group 13: Housing
+        - National Student Clearinghouse
+        - Holds
+    - Group 14: Graduate Student
+        - EthicsPoint Website
+    - Group 15: Financial
+        - Wellbeing and Counseling Center Website
+

@@ -1,0 +1,544 @@
+================================================================================
+CARD SORT GROUPINGS ANALYSIS
+================================================================================
+
+--------------------------------------------------------------------------------
+1. MOST POPULAR GROUP NAMES
+--------------------------------------------------------------------------------
+
+  .: 18 occurrence(s)
+  Registration: 17 occurrence(s)
+  none: 12 occurrence(s)
+  Academics: 9 occurrence(s)
+  Finances: 8 occurrence(s)
+  x: 8 occurrence(s)
+  Other: 7 occurrence(s)
+  Finance: 5 occurrence(s)
+  Wellbeing: 4 occurrence(s)
+  Personal Information: 4 occurrence(s)
+  Personal Info: 4 occurrence(s)
+  Transcript: 4 occurrence(s)
+  Financial: 4 occurrence(s)
+  Classes: 3 occurrence(s)
+  Navigate: 3 occurrence(s)
+  Degree: 3 occurrence(s)
+  Language: 3 occurrence(s)
+  Housing: 3 occurrence(s)
+  5: 3 occurrence(s)
+  Financial Info: 3 occurrence(s)
+  Graduate Info: 3 occurrence(s)
+  Registrar: 2 occurrence(s)
+  Degree Information: 2 occurrence(s)
+  Financial Aid: 2 occurrence(s)
+  Housing Agreement: 2 occurrence(s)
+  Language Placement Test: 2 occurrence(s)
+  Course Evaluations: 2 occurrence(s)
+  Grades: 2 occurrence(s)
+  Personal: 2 occurrence(s)
+  Graduation: 2 occurrence(s)
+  Graduate Students: 2 occurrence(s)
+  Enrollment Verification: 2 occurrence(s)
+  Your Future: 2 occurrence(s)
+  Courses: 2 occurrence(s)
+  registration: 2 occurrence(s)
+  3: 2 occurrence(s)
+  4: 2 occurrence(s)
+  1: 2 occurrence(s)
+  6: 2 occurrence(s)
+  Personal/Student Infor: 2 occurrence(s)
+  Graduation Info: 2 occurrence(s)
+  N/a: 2 occurrence(s)
+  personal: 2 occurrence(s)
+  a: 2 occurrence(s)
+  b: 2 occurrence(s)
+  c: 2 occurrence(s)
+  d: 2 occurrence(s)
+  e: 2 occurrence(s)
+  f: 2 occurrence(s)
+  g: 2 occurrence(s)
+  h: 2 occurrence(s)
+  i: 2 occurrence(s)
+  j: 2 occurrence(s)
+  k: 2 occurrence(s)
+  l: 2 occurrence(s)
+  m: 2 occurrence(s)
+  Contact: 1 occurrence(s)
+  MISC.: 1 occurrence(s)
+  Billing: 1 occurrence(s)
+  CLIC: 1 occurrence(s)
+  Student Health: 1 occurrence(s)
+  Trancript: 1 occurrence(s)
+  Forms: 1 occurrence(s)
+  Graduate Timeline: 1 occurrence(s)
+  Transcript Information: 1 occurrence(s)
+  Administative: 1 occurrence(s)
+  Financial Information: 1 occurrence(s)
+  Degree Assistance: 1 occurrence(s)
+  National Student Clearinghouse: 1 occurrence(s)
+  EthicsPoint Website: 1 occurrence(s)
+  Graduate Student Info: 1 occurrence(s)
+  Parental: 1 occurrence(s)
+  You: 1 occurrence(s)
+  ,: 1 occurrence(s)
+  Profile: 1 occurrence(s)
+  Questionaries: 1 occurrence(s)
+  Class Info: 1 occurrence(s)
+  Schedule: 1 occurrence(s)
+  Degrees: 1 occurrence(s)
+  Registering: 1 occurrence(s)
+  Ethics and Wellbeing: 1 occurrence(s)
+  Enrollment: 1 occurrence(s)
+  Cecredentials: 1 occurrence(s)
+  Student Specific Items: 1 occurrence(s)
+  Scheduling: 1 occurrence(s)
+  Registration timeline: 1 occurrence(s)
+  Health Insurance: 1 occurrence(s)
+  Language Placement: 1 occurrence(s)
+  Bill Payments: 1 occurrence(s)
+  Transcript Request: 1 occurrence(s)
+  Major: 1 occurrence(s)
+  Managing coursework: 1 occurrence(s)
+  Registrar Info: 1 occurrence(s)
+  Placement: 1 occurrence(s)
+  Acadmics -- degree related: 1 occurrence(s)
+  Student life: 1 occurrence(s)
+  Personal information: 1 occurrence(s)
+  Financials: 1 occurrence(s)
+  Likely to use: 1 occurrence(s)
+  Second likely to use: 1 occurrence(s)
+  Third most likely to use: 1 occurrence(s)
+  Fourth most likely to use: 1 occurrence(s)
+  Degree Progress: 1 occurrence(s)
+  Registration Info: 1 occurrence(s)
+  Academic Info: 1 occurrence(s)
+  Register: 1 occurrence(s)
+  Financial Account: 1 occurrence(s)
+  Student Resources: 1 occurrence(s)
+  Grades and Transcripts: 1 occurrence(s)
+  Courses and Registration: 1 occurrence(s)
+  Language Placement Exam: 1 occurrence(s)
+  Health and Safety Resources: 1 occurrence(s)
+  Links: 1 occurrence(s)
+  Student Profile: 1 occurrence(s)
+  Information: 1 occurrence(s)
+  Classes & Degrees: 1 occurrence(s)
+  Health: 1 occurrence(s)
+  Graduate Student Boundaries: 1 occurrence(s)
+  Ethicspoint: 1 occurrence(s)
+  National Student Clearing House: 1 occurrence(s)
+  Crecredentials: 1 occurrence(s)
+  Home Page: 1 occurrence(s)
+  Academic Documents: 1 occurrence(s)
+  class: 1 occurrence(s)
+  2: 1 occurrence(s)
+  Course Registration: 1 occurrence(s)
+  Home: 1 occurrence(s)
+  Language Test: 1 occurrence(s)
+  Health/Saftey: 1 occurrence(s)
+  Pass/Fail: 1 occurrence(s)
+  Plan Ahead: 1 occurrence(s)
+  Finacial: 1 occurrence(s)
+  Student info: 1 occurrence(s)
+  Class Evals: 1 occurrence(s)
+  Success.: 1 occurrence(s)
+  Othrr: 1 occurrence(s)
+  Pre-work: 1 occurrence(s)
+  Post-work: 1 occurrence(s)
+  academics: 1 occurrence(s)
+  Regristration: 1 occurrence(s)
+  Well Being: 1 occurrence(s)
+  Student Information: 1 occurrence(s)
+  Wellbeing and Housing: 1 occurrence(s)
+  Additional Services: 1 occurrence(s)
+  Personal Info.: 1 occurrence(s)
+  I often use or I think I will often use: 1 occurrence(s)
+  I not often use but may be used later: 1 occurrence(s)
+  I haven't used, and I'm unfamiliar with and unlikely to use: 1 occurrence(s)
+  classes: 1 occurrence(s)
+  I often use or I'm familiar with: 1 occurrence(s)
+  I'm likely to use in the future: 1 occurrence(s)
+  I'm unlikely to use: 1 occurrence(s)
+  Questionares: 1 occurrence(s)
+  Websites: 1 occurrence(s)
+  Preparation: 1 occurrence(s)
+  Transcripts: 1 occurrence(s)
+  Student: 1 occurrence(s)
+  Admin: 1 occurrence(s)
+  General: 1 occurrence(s)
+  course planning: 1 occurrence(s)
+  course evaluations: 1 occurrence(s)
+  personal information: 1 occurrence(s)
+  holds: 1 occurrence(s)
+  ethics: 1 occurrence(s)
+  wellbeing: 1 occurrence(s)
+  pass/fail: 1 occurrence(s)
+  Graduate Student: 1 occurrence(s)
+
+
+--------------------------------------------------------------------------------
+2. TOP CO-OCCURRING ELEMENT PAIRS
+--------------------------------------------------------------------------------
+
+  Pass/Fail – Designate a Course as Pass/Fail + Pass/Fail – View and/or Convert Pass/Fail Grades: 24 occurrence(s)
+  Request an Official Transcript (Academic) + View an Unofficial Academic Transcript: 24 occurrence(s)
+  Registration Priority Group + Registration Timeline: 24 occurrence(s)
+  Personal Information + Student Profile: 23 occurrence(s)
+  Prepare for Registration + Registration Timeline: 23 occurrence(s)
+  Course Schedule and Course Catalog + Register, Add, or Drop Classes: 22 occurrence(s)
+  Degree Works + Graduation: 22 occurrence(s)
+  Register, Add, or Drop Classes + Student Schedule: 22 occurrence(s)
+  Prepare for Registration + Registration Priority Group: 22 occurrence(s)
+  Course Schedule and Course Catalog + Plan Ahead: 21 occurrence(s)
+  Plan Ahead + Register, Add, or Drop Classes: 21 occurrence(s)
+  Parent/Guardian and Emergency Contact Information + Personal Information: 21 occurrence(s)
+  Plan Ahead + Prepare for Registration: 21 occurrence(s)
+  Register, Add, or Drop Classes + Registration Priority Group: 21 occurrence(s)
+  Bill Payment Suite + Financial Aid: 21 occurrence(s)
+  Course Evaluations and Instructor Evaluations – Student Input + Course Evaluations and Instructor Evaluations – View Results: 20 occurrence(s)
+  Course Schedule and Course Catalog + Registration Timeline: 20 occurrence(s)
+  Register, Add, or Drop Classes + Registration Timeline: 20 occurrence(s)
+  View Transcript Request Status + View an Unofficial Academic Transcript: 20 occurrence(s)
+  Course Schedule and Course Catalog + Registration Priority Group: 20 occurrence(s)
+  Plan Ahead + Registration Priority Group: 20 occurrence(s)
+  Course Schedule and Course Catalog + Prepare for Registration: 20 occurrence(s)
+  Prepare for Registration + Register, Add, or Drop Classes: 20 occurrence(s)
+  Personal Information + Update Name Pronunciation (NameCoach): 20 occurrence(s)
+  Pass/Fail – Designate a Course as Pass/Fail + Plan Ahead: 19 occurrence(s)
+  Plan Ahead + Registration Timeline: 19 occurrence(s)
+  Plan Ahead + Student Schedule: 19 occurrence(s)
+  Request an Official Enrollment Verification or Degree Verification + Request an Official Transcript (Academic): 19 occurrence(s)
+  Request an Official Enrollment Verification or Degree Verification + View Enrollment Verification Status or Degree Verification Status: 19 occurrence(s)
+  Pass/Fail – Designate a Course as Pass/Fail + Registration Priority Group: 19 occurrence(s)
+
+
+--------------------------------------------------------------------------------
+3. ELEMENT FREQUENCY (How often each element appears in groups)
+--------------------------------------------------------------------------------
+
+  EthicsPoint Website: 31 occurrence(s)
+  Release or Withhold Directory Information: 31 occurrence(s)
+  Register, Add, or Drop Classes: 31 occurrence(s)
+  Course Evaluations and Instructor Evaluations – Student Input: 31 occurrence(s)
+  View Enrollment Verification Status or Degree Verification Status: 31 occurrence(s)
+  View an Unofficial Academic Transcript: 31 occurrence(s)
+  View Grades: 31 occurrence(s)
+  Financial Aid: 31 occurrence(s)
+  Degrees, Majors, Minors, and Certificates Declared: 31 occurrence(s)
+  Registration Timeline: 31 occurrence(s)
+  Pass/Fail – View and/or Convert Pass/Fail Grades: 31 occurrence(s)
+  Graduate Student Time Boundaries: 31 occurrence(s)
+  Personal Information: 31 occurrence(s)
+  Navigate: 31 occurrence(s)
+  View Transcript Request Status: 31 occurrence(s)
+  Course Evaluations and Instructor Evaluations – View Results: 31 occurrence(s)
+  Graduation: 31 occurrence(s)
+  Student Schedule: 31 occurrence(s)
+  Request an Official Enrollment Verification or Degree Verification: 31 occurrence(s)
+  CeCredentials: 31 occurrence(s)
+  Student Profile: 31 occurrence(s)
+  Pass/Fail – Designate a Course as Pass/Fail: 31 occurrence(s)
+  National Student Clearinghouse: 31 occurrence(s)
+  Plan Ahead: 31 occurrence(s)
+  Request an Official Transcript (Academic): 31 occurrence(s)
+  Course Schedule and Course Catalog: 31 occurrence(s)
+  Holds: 31 occurrence(s)
+  Degree Works: 31 occurrence(s)
+  Wellbeing and Counseling Center Website: 31 occurrence(s)
+  Rice Alert: 31 occurrence(s)
+  2025–2026 Campus Housing Agreement: 31 occurrence(s)
+  Student Health Insurance Website: 31 occurrence(s)
+  Registration Priority Group: 31 occurrence(s)
+  Prepare for Registration: 31 occurrence(s)
+  Office of the Registrar Website: 31 occurrence(s)
+  Parent/Guardian and Emergency Contact Information: 31 occurrence(s)
+  Update Name Pronunciation (NameCoach): 31 occurrence(s)
+  E-Questionnaire Main Page: 31 occurrence(s)
+  Bill Payment Suite: 31 occurrence(s)
+  Language Placement Test Website: 31 occurrence(s)
+
+
+--------------------------------------------------------------------------------
+4. ELEMENT-TO-ELEMENT RELATIONSHIPS
+(For each element, shows top 5 most commonly co-occurring elements)
+--------------------------------------------------------------------------------
+
+  EthicsPoint Website:
+    - Wellbeing and Counseling Center Website: 15 time(s) together
+    - Rice Alert: 14 time(s) together
+    - Student Health Insurance Website: 13 time(s) together
+    - E-Questionnaire Main Page: 12 time(s) together
+    - 2025–2026 Campus Housing Agreement: 12 time(s) together
+
+  Release or Withhold Directory Information:
+    - Student Profile: 16 time(s) together
+    - Update Name Pronunciation (NameCoach): 16 time(s) together
+    - Personal Information: 15 time(s) together
+    - Parent/Guardian and Emergency Contact Information: 12 time(s) together
+    - National Student Clearinghouse: 10 time(s) together
+
+  Register, Add, or Drop Classes:
+    - Student Schedule: 22 time(s) together
+    - Course Schedule and Course Catalog: 22 time(s) together
+    - Plan Ahead: 21 time(s) together
+    - Registration Priority Group: 21 time(s) together
+    - Registration Timeline: 20 time(s) together
+
+  Course Evaluations and Instructor Evaluations – Student Input:
+    - Course Evaluations and Instructor Evaluations – View Results: 20 time(s) together
+    - Register, Add, or Drop Classes: 15 time(s) together
+    - Student Schedule: 15 time(s) together
+    - Course Schedule and Course Catalog: 15 time(s) together
+    - Registration Timeline: 14 time(s) together
+
+  View Enrollment Verification Status or Degree Verification Status:
+    - Request an Official Enrollment Verification or Degree Verification: 19 time(s) together
+    - View an Unofficial Academic Transcript: 17 time(s) together
+    - Graduation: 17 time(s) together
+    - Degrees, Majors, Minors, and Certificates Declared: 16 time(s) together
+    - Request an Official Transcript (Academic): 15 time(s) together
+
+  View an Unofficial Academic Transcript:
+    - Request an Official Transcript (Academic): 24 time(s) together
+    - View Transcript Request Status: 20 time(s) together
+    - View Enrollment Verification Status or Degree Verification Status: 17 time(s) together
+    - View Grades: 17 time(s) together
+    - Request an Official Enrollment Verification or Degree Verification: 16 time(s) together
+
+  View Grades:
+    - View an Unofficial Academic Transcript: 17 time(s) together
+    - Request an Official Transcript (Academic): 16 time(s) together
+    - Degrees, Majors, Minors, and Certificates Declared: 15 time(s) together
+    - View Transcript Request Status: 15 time(s) together
+    - Degree Works: 15 time(s) together
+
+  Financial Aid:
+    - Bill Payment Suite: 21 time(s) together
+    - 2025–2026 Campus Housing Agreement: 8 time(s) together
+    - Student Health Insurance Website: 8 time(s) together
+    - Release or Withhold Directory Information: 7 time(s) together
+    - Holds: 7 time(s) together
+
+  Degrees, Majors, Minors, and Certificates Declared:
+    - Degree Works: 17 time(s) together
+    - View Enrollment Verification Status or Degree Verification Status: 16 time(s) together
+    - View Grades: 15 time(s) together
+    - Graduation: 15 time(s) together
+    - Student Schedule: 15 time(s) together
+
+  Registration Timeline:
+    - Registration Priority Group: 24 time(s) together
+    - Prepare for Registration: 23 time(s) together
+    - Register, Add, or Drop Classes: 20 time(s) together
+    - Course Schedule and Course Catalog: 20 time(s) together
+    - Plan Ahead: 19 time(s) together
+
+  Pass/Fail – View and/or Convert Pass/Fail Grades:
+    - Pass/Fail – Designate a Course as Pass/Fail: 24 time(s) together
+    - Registration Timeline: 18 time(s) together
+    - Course Schedule and Course Catalog: 18 time(s) together
+    - Plan Ahead: 16 time(s) together
+    - Register, Add, or Drop Classes: 15 time(s) together
+
+  Graduate Student Time Boundaries:
+    - View Enrollment Verification Status or Degree Verification Status: 12 time(s) together
+    - Graduation: 11 time(s) together
+    - National Student Clearinghouse: 11 time(s) together
+    - CeCredentials: 10 time(s) together
+    - View an Unofficial Academic Transcript: 9 time(s) together
+
+  Personal Information:
+    - Student Profile: 23 time(s) together
+    - Parent/Guardian and Emergency Contact Information: 21 time(s) together
+    - Update Name Pronunciation (NameCoach): 20 time(s) together
+    - Release or Withhold Directory Information: 15 time(s) together
+    - E-Questionnaire Main Page: 11 time(s) together
+
+  Navigate:
+    - National Student Clearinghouse: 15 time(s) together
+    - CeCredentials: 13 time(s) together
+    - E-Questionnaire Main Page: 13 time(s) together
+    - EthicsPoint Website: 10 time(s) together
+    - Student Profile: 10 time(s) together
+
+  View Transcript Request Status:
+    - View an Unofficial Academic Transcript: 20 time(s) together
+    - Request an Official Transcript (Academic): 18 time(s) together
+    - View Grades: 15 time(s) together
+    - View Enrollment Verification Status or Degree Verification Status: 14 time(s) together
+    - Course Evaluations and Instructor Evaluations – Student Input: 13 time(s) together
+
+  Course Evaluations and Instructor Evaluations – View Results:
+    - Course Evaluations and Instructor Evaluations – Student Input: 20 time(s) together
+    - Registration Timeline: 18 time(s) together
+    - Course Schedule and Course Catalog: 18 time(s) together
+    - Registration Priority Group: 17 time(s) together
+    - Pass/Fail – Designate a Course as Pass/Fail: 16 time(s) together
+
+  Graduation:
+    - Degree Works: 22 time(s) together
+    - View Enrollment Verification Status or Degree Verification Status: 17 time(s) together
+    - Request an Official Enrollment Verification or Degree Verification: 16 time(s) together
+    - View an Unofficial Academic Transcript: 15 time(s) together
+    - Degrees, Majors, Minors, and Certificates Declared: 15 time(s) together
+
+  Student Schedule:
+    - Register, Add, or Drop Classes: 22 time(s) together
+    - Plan Ahead: 19 time(s) together
+    - Course Schedule and Course Catalog: 18 time(s) together
+    - Prepare for Registration: 16 time(s) together
+    - Course Evaluations and Instructor Evaluations – Student Input: 15 time(s) together
+
+  Request an Official Enrollment Verification or Degree Verification:
+    - View Enrollment Verification Status or Degree Verification Status: 19 time(s) together
+    - Request an Official Transcript (Academic): 19 time(s) together
+    - View an Unofficial Academic Transcript: 16 time(s) together
+    - Graduation: 16 time(s) together
+    - Degrees, Majors, Minors, and Certificates Declared: 15 time(s) together
+
+  CeCredentials:
+    - National Student Clearinghouse: 15 time(s) together
+    - Graduation: 14 time(s) together
+    - Navigate: 13 time(s) together
+    - Request an Official Enrollment Verification or Degree Verification: 13 time(s) together
+    - Request an Official Transcript (Academic): 12 time(s) together
+
+  Student Profile:
+    - Personal Information: 23 time(s) together
+    - Update Name Pronunciation (NameCoach): 19 time(s) together
+    - Parent/Guardian and Emergency Contact Information: 17 time(s) together
+    - Release or Withhold Directory Information: 16 time(s) together
+    - Degree Works: 12 time(s) together
+
+  Pass/Fail – Designate a Course as Pass/Fail:
+    - Pass/Fail – View and/or Convert Pass/Fail Grades: 24 time(s) together
+    - Plan Ahead: 19 time(s) together
+    - Registration Priority Group: 19 time(s) together
+    - Registration Timeline: 18 time(s) together
+    - Register, Add, or Drop Classes: 16 time(s) together
+
+  National Student Clearinghouse:
+    - Navigate: 15 time(s) together
+    - CeCredentials: 15 time(s) together
+    - E-Questionnaire Main Page: 12 time(s) together
+    - Graduate Student Time Boundaries: 11 time(s) together
+    - Language Placement Test Website: 11 time(s) together
+
+  Plan Ahead:
+    - Register, Add, or Drop Classes: 21 time(s) together
+    - Course Schedule and Course Catalog: 21 time(s) together
+    - Prepare for Registration: 21 time(s) together
+    - Registration Priority Group: 20 time(s) together
+    - Registration Timeline: 19 time(s) together
+
+  Request an Official Transcript (Academic):
+    - View an Unofficial Academic Transcript: 24 time(s) together
+    - Request an Official Enrollment Verification or Degree Verification: 19 time(s) together
+    - View Transcript Request Status: 18 time(s) together
+    - View Grades: 16 time(s) together
+    - View Enrollment Verification Status or Degree Verification Status: 15 time(s) together
+
+  Course Schedule and Course Catalog:
+    - Register, Add, or Drop Classes: 22 time(s) together
+    - Plan Ahead: 21 time(s) together
+    - Registration Timeline: 20 time(s) together
+    - Registration Priority Group: 20 time(s) together
+    - Prepare for Registration: 20 time(s) together
+
+  Holds:
+    - Registration Priority Group: 16 time(s) together
+    - Registration Timeline: 15 time(s) together
+    - Plan Ahead: 15 time(s) together
+    - Course Evaluations and Instructor Evaluations – View Results: 14 time(s) together
+    - Student Schedule: 14 time(s) together
+
+  Degree Works:
+    - Graduation: 22 time(s) together
+    - Degrees, Majors, Minors, and Certificates Declared: 17 time(s) together
+    - View Grades: 15 time(s) together
+    - View Enrollment Verification Status or Degree Verification Status: 14 time(s) together
+    - View an Unofficial Academic Transcript: 13 time(s) together
+
+  Wellbeing and Counseling Center Website:
+    - Student Health Insurance Website: 16 time(s) together
+    - Rice Alert: 15 time(s) together
+    - EthicsPoint Website: 15 time(s) together
+    - E-Questionnaire Main Page: 12 time(s) together
+    - Parent/Guardian and Emergency Contact Information: 11 time(s) together
+
+  Rice Alert:
+    - Wellbeing and Counseling Center Website: 15 time(s) together
+    - Student Health Insurance Website: 15 time(s) together
+    - E-Questionnaire Main Page: 14 time(s) together
+    - EthicsPoint Website: 14 time(s) together
+    - 2025–2026 Campus Housing Agreement: 13 time(s) together
+
+  2025–2026 Campus Housing Agreement:
+    - Student Health Insurance Website: 14 time(s) together
+    - Rice Alert: 13 time(s) together
+    - E-Questionnaire Main Page: 12 time(s) together
+    - EthicsPoint Website: 12 time(s) together
+    - Parent/Guardian and Emergency Contact Information: 11 time(s) together
+
+  Student Health Insurance Website:
+    - Wellbeing and Counseling Center Website: 16 time(s) together
+    - Rice Alert: 15 time(s) together
+    - 2025–2026 Campus Housing Agreement: 14 time(s) together
+    - Parent/Guardian and Emergency Contact Information: 13 time(s) together
+    - EthicsPoint Website: 13 time(s) together
+
+  Registration Priority Group:
+    - Registration Timeline: 24 time(s) together
+    - Prepare for Registration: 22 time(s) together
+    - Register, Add, or Drop Classes: 21 time(s) together
+    - Course Schedule and Course Catalog: 20 time(s) together
+    - Plan Ahead: 20 time(s) together
+
+  Prepare for Registration:
+    - Registration Timeline: 23 time(s) together
+    - Registration Priority Group: 22 time(s) together
+    - Plan Ahead: 21 time(s) together
+    - Register, Add, or Drop Classes: 20 time(s) together
+    - Course Schedule and Course Catalog: 20 time(s) together
+
+  Office of the Registrar Website:
+    - Registration Priority Group: 17 time(s) together
+    - Prepare for Registration: 14 time(s) together
+    - Pass/Fail – View and/or Convert Pass/Fail Grades: 14 time(s) together
+    - Registration Timeline: 14 time(s) together
+    - Plan Ahead: 14 time(s) together
+
+  Parent/Guardian and Emergency Contact Information:
+    - Personal Information: 21 time(s) together
+    - Update Name Pronunciation (NameCoach): 18 time(s) together
+    - Student Profile: 17 time(s) together
+    - Student Health Insurance Website: 13 time(s) together
+    - Release or Withhold Directory Information: 12 time(s) together
+
+  Update Name Pronunciation (NameCoach):
+    - Personal Information: 20 time(s) together
+    - Student Profile: 19 time(s) together
+    - Parent/Guardian and Emergency Contact Information: 18 time(s) together
+    - Release or Withhold Directory Information: 16 time(s) together
+    - E-Questionnaire Main Page: 10 time(s) together
+
+  Bill Payment Suite:
+    - Financial Aid: 21 time(s) together
+    - 2025–2026 Campus Housing Agreement: 8 time(s) together
+    - Rice Alert: 7 time(s) together
+    - Student Health Insurance Website: 7 time(s) together
+    - Request an Official Enrollment Verification or Degree Verification: 6 time(s) together
+
+  E-Questionnaire Main Page:
+    - Rice Alert: 14 time(s) together
+    - Navigate: 13 time(s) together
+    - Wellbeing and Counseling Center Website: 12 time(s) together
+    - 2025–2026 Campus Housing Agreement: 12 time(s) together
+    - National Student Clearinghouse: 12 time(s) together
+
+  Language Placement Test Website:
+    - National Student Clearinghouse: 11 time(s) together
+    - E-Questionnaire Main Page: 9 time(s) together
+    - Graduate Student Time Boundaries: 8 time(s) together
+    - Rice Alert: 8 time(s) together
+    - EthicsPoint Website: 8 time(s) together
+

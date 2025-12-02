@@ -61,55 +61,97 @@ const ResourcesPage = () => {
           </p>
         </section>
 
-        <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Library Resources</h2>
-            <p className="text-gray-600 mb-4">Access library databases, books, and research tools</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Library Services →
-            </button>
-          </div>
-
-          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Academic Support</h2>
-            <p className="text-gray-600 mb-4">Tutoring, study groups, and academic assistance</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Get Support →
-            </button>
-          </div>
-
-          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Career Services</h2>
-            <p className="text-gray-600 mb-4">Career counseling, job search, and internship resources</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Career Center →
-            </button>
-          </div>
-
-          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Health & Wellness</h2>
-            <p className="text-gray-600 mb-4">Student health services and counseling resources</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Health Services →
-            </button>
-          </div>
-
-          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Housing & Dining</h2>
-            <p className="text-gray-600 mb-4">Housing information and dining services</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Housing Info →
-            </button>
-          </div>
-
-          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Student Organizations</h2>
-            <p className="text-gray-600 mb-4">Browse and join student clubs and organizations</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Organizations →
-            </button>
-          </div>
+        <section className="mb-12">
+          <ul className="space-y-6">
+            <li>
+              <h2 className="text-xl font-semibold text-gray-900 mb-2">Academic Resources</h2>
+              <ul className="list-disc ml-6 space-y-2">
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Registrar Website
+                  </button>
+                </li>
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Navigate360
+                  </button>
+                </li>
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Graduate Student Time Boundaries
+                  </button>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h2 className="text-xl font-semibold text-gray-900 mb-2">Student Life</h2>
+              <ul className="list-disc ml-6 space-y-2">
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Wellbeing and Counseling Center Website
+                  </button>
+                </li>
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Ethics Point Website
+                  </button>
+                </li>
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Student Health Insurance Website
+                  </button>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h2 className="text-xl font-semibold text-gray-900 mb-2">Housing and Dining</h2>
+              <ul className="list-disc ml-6 space-y-2">
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Housing and Dining Website
+                  </button>
+                </li>
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    2025-2026 Housing Agreement
+                  </button>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h2 className="text-xl font-semibold text-gray-900 mb-2">Emergency Services</h2>
+              <ul className="list-disc ml-6 space-y-2">
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Rice Alert
+                  </button>
+                </li>
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    RUPD Website
+                  </button>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h2 className="text-xl font-semibold text-gray-900 mb-2">CLIC</h2>
+              <ul className="list-disc ml-6 space-y-2">
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    Language Placement Test
+                  </button>
+                </li>
+                <li>
+                  <button className="text-blue-600 hover:text-blue-800 hover:underline">
+                    CLIC Website
+                  </button>
+                </li>
+              </ul>
+            </li>
+          </ul>
         </section>
+
+        
       </div>
     </div>
   )

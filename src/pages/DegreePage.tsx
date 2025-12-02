@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import Navigation from '../components/layout/Navigation'
 import { PortalSection } from '../types'
 
-const FinancesPage = () => {
+const DegreePage = () => {
   const portalSections: PortalSection[] = [
     {
       id: 'academics',
@@ -47,42 +47,59 @@ const FinancesPage = () => {
       
       <div className="container mx-auto px-4 py-12">
         <div className="mb-8">
-          <Link to="/" className="text-blue-600 hover:text-blue-800 hover:underline">
-            ← Back to Home
+          <Link to="/academics" className="text-blue-600 hover:text-blue-800 hover:underline">
+            ← Back to Academics
           </Link>
         </div>
 
         <section className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Finances
+            Degree
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl">
-            View your financial information and pay your bills
+            Track your degree progress and requirements
           </p>
         </section>
 
         <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Bill Payment Suite</h2>
-            <p className="text-gray-600 mb-4">View your current tuition and fee statement and make payments</p>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Degree Works</h2>
+            <p className="text-gray-600 mb-4">Track your progress toward your degree</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Bill Payment Suite →
+              View Degree Works →
             </button>
           </div>
 
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Financial Aid</h2>
-            <p className="text-gray-600 mb-4">View your financial aid status and awards</p>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Degrees, Majors, Minors, and Certificates</h2>
+            <p className="text-gray-600 mb-4">View requirements for your degrees, majors, minors, and certificates</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Aid →
+              View Degrees, Majors, Minors, and Certificates →
             </button>
           </div>
 
+          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Enrollment/Degree Verification</h2>
+            <p className="text-gray-600 mb-4">View or request your enrollment and degree verification</p>
+            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+              View Enrollment/Degree Verification →
+            </button>
+            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+              Request Enrollment/Degree Verification →
+            </button>
+            <h4 className="text-lg font-semibold text-gray-900 mb-2">More Resources:</h4>
+            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+              National Student Clearinghouse →
+            </button>
+            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+              CeCredentials →
+            </button>
+          </div>
         </section>
       </div>
     </div>
   )
 }
 
-export default FinancesPage
+export default DegreePage
 

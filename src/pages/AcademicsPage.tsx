@@ -63,31 +63,31 @@ const AcademicsPage = () => {
 
         <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">View Grades</h2>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Grades</h2>
             <p className="text-gray-600 mb-4">Access your current and past course grades</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+            <Link to="/academics/grades" className="text-blue-600 hover:text-blue-800 hover:underline inline-block">
               View Grades →
-            </button>
+            </Link>
           </div>
 
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Academic Transcript</h2>
-            <p className="text-gray-600 mb-4">View your official and unofficial transcripts</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Transcript →
-            </button>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Classes</h2>
+            <p className="text-gray-600 mb-4">View your class information and course details</p>
+            <Link to="/academics/classes" className="text-blue-600 hover:text-blue-800 hover:underline inline-block">
+              View Classes →
+            </Link>
           </div>
 
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Degree Progress</h2>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Degree</h2>
             <p className="text-gray-600 mb-4">Track your progress toward graduation</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Progress →
-            </button>
+            <Link to="/academics/degree" className="text-blue-600 hover:text-blue-800 hover:underline inline-block">
+              View Degree →
+            </Link>
           </div>
 
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Graduation Information</h2>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Graduation</h2>
             <p className="text-gray-600 mb-4">View graduation requirements and status</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
               View Information →

@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import Navigation from '../components/layout/Navigation'
 import { PortalSection } from '../types'
 
-const FinancesPage = () => {
+const GradesPage = () => {
   const portalSections: PortalSection[] = [
     {
       id: 'academics',
@@ -47,42 +47,49 @@ const FinancesPage = () => {
       
       <div className="container mx-auto px-4 py-12">
         <div className="mb-8">
-          <Link to="/" className="text-blue-600 hover:text-blue-800 hover:underline">
-            ← Back to Home
+          <Link to="/academics" className="text-blue-600 hover:text-blue-800 hover:underline">
+            ← Back to Academics
           </Link>
         </div>
 
         <section className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Finances
+            Grades
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl">
-            View your financial information and pay your bills
+            View your current and past course grades
           </p>
         </section>
 
         <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Bill Payment Suite</h2>
-            <p className="text-gray-600 mb-4">View your current tuition and fee statement and make payments</p>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">View Grades</h2>
+            <p className="text-gray-600 mb-4">View your grades for the current term</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Bill Payment Suite →
+              View Grades →
             </button>
           </div>
 
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Financial Aid</h2>
-            <p className="text-gray-600 mb-4">View your financial aid status and awards</p>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Unofficial Transcript</h2>
+            <p className="text-gray-600 mb-4">View an unofficial transcript of your grades</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Aid →
+              View Unofficial Transcript →
             </button>
           </div>
 
+          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Official Transcript</h2>
+            <p className="text-gray-600 mb-4">Request an official transcript of your grades and/or view request status</p>
+            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+              Request or View Status →
+            </button>
+          </div>
         </section>
       </div>
     </div>
   )
 }
 
-export default FinancesPage
+export default GradesPage
 

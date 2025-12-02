@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import Navigation from '../components/layout/Navigation'
 import { PortalSection } from '../types'
 
-const FinancesPage = () => {
+const ClassesPage = () => {
   const portalSections: PortalSection[] = [
     {
       id: 'academics',
@@ -47,34 +47,40 @@ const FinancesPage = () => {
       
       <div className="container mx-auto px-4 py-12">
         <div className="mb-8">
-          <Link to="/" className="text-blue-600 hover:text-blue-800 hover:underline">
-            ← Back to Home
+          <Link to="/academics" className="text-blue-600 hover:text-blue-800 hover:underline">
+            ← Back to Academics
           </Link>
         </div>
 
         <section className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Finances
+            Classes
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl">
-            View your financial information and pay your bills
+            View your class information and course details
           </p>
         </section>
 
         <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Bill Payment Suite</h2>
-            <p className="text-gray-600 mb-4">View your current tuition and fee statement and make payments</p>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Course/Instructor Evaluations</h2>
+            <p className="text-gray-600 mb-4">Evaluate your courses and instructors and view results</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Bill Payment Suite →
+              Evaluate Courses/Instructors →
+            </button>
+            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+              View Results →
             </button>
           </div>
 
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Financial Aid</h2>
-            <p className="text-gray-600 mb-4">View your financial aid status and awards</p>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Pass/Fail</h2>
+            <p className="text-gray-600 mb-4">View and change your pass/fail status for a course</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              View Aid →
+              Designate Pass/Fail →
+            </button>
+            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+              View Pass/Fail Status →
             </button>
           </div>
 
@@ -84,5 +90,5 @@ const FinancesPage = () => {
   )
 }
 
-export default FinancesPage
+export default ClassesPage
 

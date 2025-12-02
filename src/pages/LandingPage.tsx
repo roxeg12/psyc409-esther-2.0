@@ -50,11 +50,33 @@ const LandingPage = () => {
         {/* Hero Section */}
         <section className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Welcome to the Student Portal
+            Welcome to Esther
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Your central hub for academic resources, services, and information
           </p>
+        </section>
+
+        {/* Quick Links Section */}
+        <section className="bg-gray-50 rounded-lg p-8 mb-16 border border-gray-200">
+          <h2 className="text-2xl font-semibold text-gray-900 mb-6">Quick Links</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-white p-4 rounded shadow-sm hover:shadow-md transition-shadow cursor-pointer border border-transparent hover:border-blue-300">
+              <h3 className="font-semibold text-blue-600 hover:text-blue-800 mb-2">Degree Works</h3>
+              <p className="text-sm text-gray-600">View your degree progress and requirements</p>
+            </div>
+            <Link 
+              to="/academics/grades" 
+              className="bg-white p-4 rounded shadow-sm hover:shadow-md transition-shadow cursor-pointer border border-transparent hover:border-blue-300 block"
+            >
+              <h3 className="font-semibold text-blue-600 hover:text-blue-800 mb-2">Grades</h3>
+              <p className="text-sm text-gray-600">View your grades and academic performance</p>
+            </Link>
+            <div className="bg-white p-4 rounded shadow-sm hover:shadow-md transition-shadow cursor-pointer border border-transparent hover:border-blue-300">
+              <h3 className="font-semibold text-blue-600 hover:text-blue-800 mb-2">Payment Suite</h3>
+              <p className="text-sm text-gray-600">View your financial information and pay your bills</p>
+            </div>
+          </div>
         </section>
 
         {/* Portal Sections Grid */}
@@ -75,20 +97,7 @@ const LandingPage = () => {
           ))}
         </section>
 
-        {/* Quick Links Section */}
-        <section className="bg-gray-50 rounded-lg p-8">
-          <h2 className="text-2xl font-semibold text-gray-900 mb-4">Quick Links</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div className="bg-white p-4 rounded shadow-sm">
-              <h3 className="font-semibold text-gray-900 mb-2">Announcements</h3>
-              <p className="text-sm text-gray-600">Stay updated with the latest university news and announcements</p>
-            </div>
-            <div className="bg-white p-4 rounded shadow-sm">
-              <h3 className="font-semibold text-gray-900 mb-2">Calendar</h3>
-              <p className="text-sm text-gray-600">View important dates, deadlines, and events</p>
-            </div>
-          </div>
-        </section>
+        
       </div>
     </div>
   )

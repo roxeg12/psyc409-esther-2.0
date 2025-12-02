@@ -71,18 +71,10 @@ const PersonalPage = () => {
           </div>
 
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Contact Information</h2>
-            <p className="text-gray-600 mb-4">Update your address, phone, and email</p>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Parent/Guardian and Emergency Contact Information</h2>
+            <p className="text-gray-600 mb-4">Update your parent/guardian and emergency contact information</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Update Contact →
-            </button>
-          </div>
-
-          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Emergency Contacts</h2>
-            <p className="text-gray-600 mb-4">Manage your emergency contact information</p>
-            <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Manage Contacts →
+              Update Parent/Guardian and Emergency Contacts →
             </button>
           </div>
 
@@ -90,15 +82,23 @@ const PersonalPage = () => {
             <h2 className="text-xl font-semibold text-gray-900 mb-2">Name Pronunciation</h2>
             <p className="text-gray-600 mb-4">Update your name pronunciation preferences</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Update Name →
+              Update Name Pronunciation →
             </button>
           </div>
 
           <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
-            <h2 className="text-xl font-semibold text-gray-900 mb-2">Privacy Settings</h2>
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">Manage Directory Information</h2>
             <p className="text-gray-600 mb-4">Manage your directory and privacy preferences</p>
             <button className="text-blue-600 hover:text-blue-800 hover:underline">
-              Privacy Settings →
+              Manage Directory Information →
+            </button>
+          </div>
+
+          <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
+            <h2 className="text-xl font-semibold text-gray-900 mb-2">E-Questionnaires</h2>
+            <p className="text-gray-600 mb-4">View and complete your e-questionnaires</p>
+            <button className="text-blue-600 hover:text-blue-800 hover:underline">
+              View E-Questionnaires →
             </button>
           </div>
         </section>

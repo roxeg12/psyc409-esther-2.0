@@ -1,0 +1,223 @@
+================================================================================
+SURVEY DATA SUMMARY
+================================================================================
+
+--------------------------------------------------------------------------------
+QUESTION: What are the top things you typically use Esther for?
+COLUMN: T
+--------------------------------------------------------------------------------
+
+ALL RESPONSES:
+--------------------------------------------------------------------------------
+  - What are the top things you typically use Esther for? - Selected Choice
+  - Checking grades
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Checking holds or account status
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Registering for classes
+  - Viewing your transcript
+  - Checking grades
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Checking holds or account status
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Registering for classes
+  - Accessing financial information
+  - Checking holds or account status
+  - Checking grades
+  - Registering for classes
+  - Accessing financial information
+  - Checking holds or account status
+  - Registering for classes
+  - Viewing your transcript
+  - Checking grades
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Checking grades
+  - Checking holds or account status
+  - Checking grades
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Registering for classes
+  - Registering for classes
+  - Checking holds or account status
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Registering for classes
+  - Viewing your transcript
+  - Registering for classes
+  - Viewing your transcript
+  - Registering for classes
+  - Viewing your transcript
+  - Checking grades
+  - Registering for classes
+  - Accessing financial information
+  - Checking holds or account status
+  - Registering for classes
+  - Accessing financial information
+  - Checking holds or account status
+  - Registering for classes
+  - Viewing your transcript
+  - Checking holds or account status
+  - Registering for classes
+  - Viewing your transcript
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Checking holds or account status
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Registering for classes
+  - Checking holds or account status
+  - Checking grades
+  - Registering for classes
+  - Checking holds or account status
+  - Registering for classes
+  - Registering for classes
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Checking grades
+  - Registering for classes
+  - Viewing your transcript
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Checking holds or account status
+  - Checking grades
+  - Registering for classes
+  - Viewing your transcript
+  - Accessing financial information
+  - Checking holds or account status
+  - Registering for classes
+  - Accessing financial information
+  - Checking holds or account status
+  - Other
+
+TOP 10 MOST COMMONLY LISTED ITEMS:
+--------------------------------------------------------------------------------
+  1. Registering for classes (mentioned 31 times)
+  2. Viewing your transcript (mentioned 20 times)
+  3. Accessing financial information (mentioned 17 times)
+  4. Checking holds or account status (mentioned 15 times)
+  5. Checking grades (mentioned 10 times)
+  6. What are the top things you typically use Esther for? - Selected Choice (mentioned 1 time)
+  7. Other (mentioned 1 time)
+
+
+--------------------------------------------------------------------------------
+QUESTION: Which features are hardest to find on Esther?
+COLUMN: W
+--------------------------------------------------------------------------------
+
+ALL RESPONSES:
+--------------------------------------------------------------------------------
+  - Which features are hardest to find on Esther? - Selected Choice
+  - Grades
+  - Transcript
+  - Grades
+  - Holds
+  - Transcript
+  - DegreeWorks
+  - Financial information
+  - DegreeWorks
+  - Transcript
+  - Financial information
+  - Grades
+  - Financial information
+  - Grades
+  - Transcript
+  - DegreeWorks
+  - Grades
+  - Transcript
+  - Grades
+  - Financial information
+  - Financial information
+  - Financial information
+  - DegreeWorks
+  - Grades
+  - DegreeWorks
+  - Holds
+  - Holds
+  - Transcript
+  - Financial information
+  - Grades
+  - Other
+  - Grades
+  - Grades
+  - Financial information
+  - DegreeWorks
+  - Grades
+  - Grades
+  - Financial information
+  - Financial information
+  - Grades
+  - DegreeWorks
+  - Financial information
+  - DegreeWorks
+
+TOP 10 MOST COMMONLY LISTED ITEMS:
+--------------------------------------------------------------------------------
+  1. Grades (mentioned 13 times)
+  2. Financial information (mentioned 11 times)
+  3. DegreeWorks (mentioned 8 times)
+  4. Transcript (mentioned 6 times)
+  5. Holds (mentioned 3 times)
+  6. Which features are hardest to find on Esther? - Selected Choice (mentioned 1 time)
+  7. Other (mentioned 1 time)
+
+
+--------------------------------------------------------------------------------
+QUESTION: What were you trying to find, and what made it difficult?
+COLUMN: Z
+--------------------------------------------------------------------------------
+
+ALL RESPONSES:
+--------------------------------------------------------------------------------
+  - What were you trying to find
+  - what made it difficult?
+  - nlaklf
+  - I was trying to find my unofficial trascript
+  - Paperwork such as a document that proves that I am a Rice student.
+  - I was trying to find how to declare a minor in degree works and it was difficult because it wasn't labelled well
+  - I was trying to find financial information and it is under other tabs. Also finding holds can be tough.
+  - Finding the site to pay bills was difficult because it took a while to figure out where in the site to go.
+  - My financial aid information after the spring semester
+  - I was trying to find information regarding my scholarship. What made it difficult was the fact that I had to go through a very specific pathway to access such information.
+  - major declaration
+  - Mid term grades. I don't know why but I wasn't able to directly view half term grades by clicking Student - Records -&gt
+  - View Grades. Instead
+  - I had to go to Students - General -&gt
+  - Student Profile -&gt
+  - View Grades. I'm not sure why this happened. Maybe it was my problem.
+  - major declaration
+  - half term grades
+  - trying to find financial information
+  - the layout of the website is outdated and confusing in my opinion.
+  - Course registration/ degree progress with classes
+
+TOP 10 MOST COMMONLY LISTED ITEMS:
+--------------------------------------------------------------------------------
+  1. major declaration (mentioned 2 times)
+  2. What were you trying to find (mentioned 1 time)
+  3. what made it difficult? (mentioned 1 time)
+  4. nlaklf (mentioned 1 time)
+  5. I was trying to find my unofficial trascript (mentioned 1 time)
+  6. Paperwork such as a document that proves that I am a Rice student. (mentioned 1 time)
+  7. I was trying to find how to declare a minor in degree works and it was difficult because it wasn't labelled well (mentioned 1 time)
+  8. I was trying to find financial information and it is under other tabs. Also finding holds can be tough. (mentioned 1 time)
+  9. Finding the site to pay bills was difficult because it took a while to figure out where in the site to go. (mentioned 1 time)
+  10. My financial aid information after the spring semester (mentioned 1 time)
+
+

@@ -50,7 +50,7 @@ const LandingPage = () => {
 
   const slides = [
     {
-      title: 'Welcome to Esther',
+      title: "Welcome to Rice University's Student Portal",
       content: 'Your central hub for academic resources, services, and information'
     },
     {

@@ -1,0 +1,219 @@
+NASA TLX Results Analysis
+================================================================================
+
+
+Mental Demand:
+--------------------------------------------------------------------------------
+Esther Results:
+    - Mean: 32.65
+    - SD: 19.69
+    - Min: 7.00
+    - Max: 71.00
+    - Mode: 10.00
+    - Median: 30.00
+
+RUSP Results:
+    - Mean: 25.00
+    - SD: 22.38
+    - Min: 0.00
+    - Max: 74.00
+    - Mode: 3.00
+    - Median: 19.50
+
+Statistical Tests:
+    Independent Samples t-test:
+        t-statistic: 1.1479
+        p-value: 0.2582
+        Significant (p < 0.05): No
+    Mann-Whitney U test:
+        U-statistic: 250.0000
+        p-value: 0.1799
+        Significant (p < 0.05): No
+
+Physical Demand:
+--------------------------------------------------------------------------------
+Esther Results:
+    - Mean: 19.90
+    - SD: 21.33
+    - Min: 0.00
+    - Max: 71.00
+    - Mode: 10.00
+    - Median: 10.00
+
+RUSP Results:
+    - Mean: 16.25
+    - SD: 22.51
+    - Min: 0.00
+    - Max: 86.00
+    - Mode: 0.00
+    - Median: 4.00
+
+Statistical Tests:
+    Independent Samples t-test:
+        t-statistic: 0.5265
+        p-value: 0.6016
+        Significant (p < 0.05): No
+    Mann-Whitney U test:
+        U-statistic: 229.0000
+        p-value: 0.4367
+        Significant (p < 0.05): No
+
+Temporal Demand:
+--------------------------------------------------------------------------------
+Esther Results:
+    - Mean: 35.85
+    - SD: 27.47
+    - Min: 0.00
+    - Max: 75.00
+    - Mode: 0.00
+    - Median: 50.00
+
+RUSP Results:
+    - Mean: 23.40
+    - SD: 24.64
+    - Min: 0.00
+    - Max: 80.00
+    - Mode: 5.00
+    - Median: 11.50
+
+Statistical Tests:
+    Independent Samples t-test:
+        t-statistic: 1.5087
+        p-value: 0.1396
+        Significant (p < 0.05): No
+    Mann-Whitney U test:
+        U-statistic: 252.0000
+        p-value: 0.1623
+        Significant (p < 0.05): No
+
+Performance:
+--------------------------------------------------------------------------------
+Esther Results:
+    - Mean: 84.40
+    - SD: 22.69
+    - Min: 37.00
+    - Max: 100.00
+    - Mode: 100.00
+    - Median: 96.00
+
+RUSP Results:
+    - Mean: 89.75
+    - SD: 14.71
+    - Min: 53.00
+    - Max: 100.00
+    - Mode: 100.00
+    - Median: 97.00
+
+Statistical Tests:
+    Independent Samples t-test:
+        t-statistic: -0.8847
+        p-value: 0.3819
+        Significant (p < 0.05): No
+    Mann-Whitney U test:
+        U-statistic: 191.5000
+        p-value: 0.8188
+        Significant (p < 0.05): No
+
+Effort:
+--------------------------------------------------------------------------------
+Esther Results:
+    - Mean: 30.10
+    - SD: 22.52
+    - Min: 2.00
+    - Max: 80.00
+    - Mode: 10.00
+    - Median: 25.00
+
+RUSP Results:
+    - Mean: 23.60
+    - SD: 19.72
+    - Min: 0.00
+    - Max: 67.00
+    - Mode: 40.00
+    - Median: 24.00
+
+Statistical Tests:
+    Independent Samples t-test:
+        t-statistic: 0.9710
+        p-value: 0.3377
+        Significant (p < 0.05): No
+    Mann-Whitney U test:
+        U-statistic: 234.5000
+        p-value: 0.3571
+        Significant (p < 0.05): No
+
+Frustration:
+--------------------------------------------------------------------------------
+Esther Results:
+    - Mean: 22.30
+    - SD: 26.03
+    - Min: 0.00
+    - Max: 95.00
+    - Mode: 16.00
+    - Median: 13.00
+
+RUSP Results:
+    - Mean: 16.75
+    - SD: 22.74
+    - Min: 0.00
+    - Max: 76.00
+    - Mode: 0.00
+    - Median: 5.50
+
+Statistical Tests:
+    Independent Samples t-test:
+        t-statistic: 0.7181
+        p-value: 0.4771
+        Significant (p < 0.05): No
+    Mann-Whitney U test:
+        U-statistic: 233.0000
+        p-value: 0.3769
+        Significant (p < 0.05): No
+
+
+================================================================================
+SUMMARY TABLE
+================================================================================
+
+       Question Esther Mean Esther SD Esther Min Esther Max Esther Mode Esther Median RUSP Mean RUSP SD RUSP Min RUSP Max RUSP Mode RUSP Median
+  Mental Demand       32.65     19.69       7.00      71.00       10.00         30.00     25.00   22.38     0.00    74.00      3.00       19.50
+Physical Demand       19.90     21.33       0.00      71.00       10.00         10.00     16.25   22.51     0.00    86.00      0.00        4.00
+Temporal Demand       35.85     27.47       0.00      75.00        0.00         50.00     23.40   24.64     0.00    80.00      5.00       11.50
+    Performance       84.40     22.69      37.00     100.00      100.00         96.00     89.75   14.71    53.00   100.00    100.00       97.00
+         Effort       30.10     22.52       2.00      80.00       10.00         25.00     23.60   19.72     0.00    67.00     40.00       24.00
+    Frustration       22.30     26.03       0.00      95.00       16.00         13.00     16.75   22.74     0.00    76.00      0.00        5.50
+
+================================================================================
+STATISTICAL TEST SUMMARY
+================================================================================
+
+Mental Demand:
+  t-test: t = 1.1479, p = 0.2582 
+  Mann-Whitney U: U = 250.0000, p = 0.1799 
+  (* indicates p < 0.05)
+
+Physical Demand:
+  t-test: t = 0.5265, p = 0.6016 
+  Mann-Whitney U: U = 229.0000, p = 0.4367 
+  (* indicates p < 0.05)
+
+Temporal Demand:
+  t-test: t = 1.5087, p = 0.1396 
+  Mann-Whitney U: U = 252.0000, p = 0.1623 
+  (* indicates p < 0.05)
+
+Performance:
+  t-test: t = -0.8847, p = 0.3819 
+  Mann-Whitney U: U = 191.5000, p = 0.8188 
+  (* indicates p < 0.05)
+
+Effort:
+  t-test: t = 0.9710, p = 0.3377 
+  Mann-Whitney U: U = 234.5000, p = 0.3571 
+  (* indicates p < 0.05)
+
+Frustration:
+  t-test: t = 0.7181, p = 0.4771 
+  Mann-Whitney U: U = 233.0000, p = 0.3769 
+  (* indicates p < 0.05)
+

@@ -1,0 +1,95 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q4,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q11_1,Q11_2,Q11_3,Q11_4,Q11_5,Q11_6
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Do you consent to participate in this survey?,"Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+There are no right or wrong answers — just your personal experience. - How mentally demanding was the task?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+There are no right or wrong answers — just your personal experience. - How physically demanding was the task?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+There are no right or wrong answers — just your personal experience. - How hurried or rushed was the pace of the task?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+There are no right or wrong answers — just your personal experience. - How successful were you in accomplishing what you were asked to do?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+There are no right or wrong answers — just your personal experience. - How hard did you have to work to accomplish your level of performance?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+There are no right or wrong answers — just your personal experience. - How insecure, discouraged, irritated, stressed, and annoyed were you?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+ There are no right or wrong answers — just your personal experience. - How mentally demanding was the task?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+ There are no right or wrong answers — just your personal experience. - How physically demanding was the task?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+ There are no right or wrong answers — just your personal experience. - How hurried or rushed was the pace of the task?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+ There are no right or wrong answers — just your personal experience. - How successful were you in accomplishing what you were asked to do?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+ There are no right or wrong answers — just your personal experience. - How hard did you have to work to accomplish your level of performance?","Please rate your experience with the task using the sliders below.
+
+Each scale ranges from 0 (Very Low) to 100 (Very High).
+
+Move each slider to the point that best represents how you felt while completing the task. 
+
+ There are no right or wrong answers — just your personal experience. - How insecure, discouraged, irritated, stressed, and annoyed were you?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID4""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID2_2""}","{""ImportId"":""QID2_3""}","{""ImportId"":""QID2_4""}","{""ImportId"":""QID2_5""}","{""ImportId"":""QID2_6""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID11_4""}","{""ImportId"":""QID11_5""}","{""ImportId"":""QID11_6""}"
+12/1/2025 19:44,12/1/2025 19:45,Survey Preview,,100,74,TRUE,12/1/2025 19:45,R_3V88n8hlUvlI893,,,,,29.7228,-95.4251,preview,EN,Yes,46,40,65,92,31,16,73,37,31,83,43,70
+12/2/2025 7:40,12/2/2025 7:41,IP Address,168.5.143.198,100,47,TRUE,12/2/2025 7:41,R_3OFe0nXVd5gbRoB,,,,,29.7228,-95.4251,anonymous,EN,Yes,71,10,60,37,43,25,17,2,10,53,11,10
+12/2/2025 7:41,12/2/2025 7:45,IP Address,168.4.151.198,100,222,TRUE,12/2/2025 7:45,R_5q2wA8PRTlBHZ2j,,,,,29.7228,-95.4251,anonymous,EN,Yes,10,1,20,100,10,0,10,0,5,100,0,0
+12/2/2025 7:44,12/2/2025 7:50,IP Address,68.129.99.85,100,383,TRUE,12/2/2025 7:50,R_7COdjTkwj9B5DWe,,,,,41.0617,-74.0083,anonymous,EN,Yes,30,10,10,90,40,10,29,5,11,100,40,5
+12/2/2025 7:52,12/2/2025 7:54,IP Address,168.5.188.95,100,112,TRUE,12/2/2025 7:54,R_6rHbDFymd5o46lu,,,,,29.7228,-95.4251,anonymous,EN,Yes,49,19,55,42,57,45,50,30,55,60,40,20
+12/2/2025 7:55,12/2/2025 8:22,IP Address,128.42.88.92,100,1631,TRUE,12/2/2025 8:22,R_6ItjH7wa5UV9f5g,,,,,29.7228,-95.4251,anonymous,EN,Yes,45,36,58,49,40,56,55,31,50,67,54,46
+12/2/2025 8:42,12/2/2025 8:45,IP Address,168.5.139.149,100,155,TRUE,12/2/2025 8:45,R_1ITDjsSwP4zW8V3,,,,,29.7228,-95.4251,anonymous,EN,Yes,31,41,53,71,66,37,9,11,12,95,21,5
+12/2/2025 9:04,12/2/2025 9:08,IP Address,76.31.137.73,100,232,TRUE,12/2/2025 9:08,R_11ogZiaTzMjc2XL,,,,,29.7495,-95.4703,anonymous,EN,Yes,30,10,50,100,25,0,20,0,50,100,20,0
+12/2/2025 9:27,12/2/2025 9:28,IP Address,192.108.242.143,100,51,TRUE,12/2/2025 9:28,R_7tD9E4uYYCqnk0m,,,,,29.6865,-95.4337,anonymous,EN,Yes,65,71,69,43,51,95,74,86,80,91,67,76
+12/2/2025 9:39,12/2/2025 9:45,IP Address,12.75.41.106,100,324,TRUE,12/2/2025 9:45,R_6t5gwMrA5YnfoD7,,,,,29.7223,-95.6285,anonymous,EN,Yes,28,10,61,100,22,0,11,11,56,100,28,0
+12/2/2025 9:43,12/2/2025 9:47,IP Address,23.92.12.4,100,246,TRUE,12/2/2025 9:47,R_7fjpHIPozwMvVN7,,,,,29.7539,-95.359,anonymous,EN,Yes,60,0,0,88,4,8,0,0,0,100,0,0
+12/2/2025 9:50,12/2/2025 9:55,IP Address,168.5.49.88,100,299,TRUE,12/2/2025 9:55,R_5V7mO6FpV1lMqkF,,,,,29.7228,-95.4251,anonymous,EN,Yes,10,0,15,100,3,2,3,0,15,100,1,2
+12/2/2025 10:09,12/2/2025 10:10,IP Address,168.5.60.93,100,71,TRUE,12/2/2025 10:10,R_1OAFst1SfHr5qms,,,,,29.7228,-95.4251,anonymous,EN,Yes,19,32,52,100,19,16,29,40,28,99,27,28
+12/2/2025 10:21,12/2/2025 10:23,IP Address,168.5.180.243,100,81,TRUE,12/2/2025 10:23,R_3aX0Fom893ChW2f,,,,,29.7545,-95.4093,anonymous,EN,Yes,20,11,22,92,25,16,3,3,1,100,1,1
+12/2/2025 10:19,12/2/2025 10:26,IP Address,168.5.149.112,100,368,TRUE,12/2/2025 10:26,R_3Fm4iX5VJwwtSLp,,,,,29.7056,-95.402,anonymous,EN,Yes,18,0,0,100,8,10,19,0,0,75,31,21
+12/2/2025 10:23,12/2/2025 10:26,IP Address,168.4.90.92,100,144,TRUE,12/2/2025 10:26,R_1aryVFItLpINoHy,,,,,29.7228,-95.4251,anonymous,EN,Yes,50,50,75,100,80,70,30,19,5,90,30,20
+12/2/2025 10:20,12/2/2025 10:31,IP Address,168.5.164.185,100,647,TRUE,12/2/2025 10:31,R_1JKjlJwnWyuN0ZA,,,,,29.7056,-95.402,anonymous,EN,Yes,40,50,50,100,50,25,35,45,50,100,40,20
+12/2/2025 13:38,12/2/2025 13:40,IP Address,168.5.55.21,100,155,TRUE,12/2/2025 13:40,R_77IPHpkpz1Ov16p,,,,,29.7228,-95.4251,anonymous,EN,Yes,10,0,0,100,10,5,20,0,5,95,10,5
+12/2/2025 14:50,12/2/2025 14:55,IP Address,168.4.183.237,100,316,TRUE,12/2/2025 14:55,R_6qfb2vLsWehACjw,,,,,29.7228,-95.4251,anonymous,EN,Yes,7,1,1,84,2,7,10,2,4,87,5,6
+12/2/2025 10:10,12/2/2025 15:43,IP Address,168.5.180.239,100,19985,TRUE,12/2/2025 15:43,R_7S6nUEdu7StGn73,,,,,29.7228,-95.4251,anonymous,EN,Yes,14,6,1,100,16,3,3,3,0,100,3,0
